@@ -1,0 +1,177 @@
+concept,colour,en,fr,es,ca
+identity,black,6,1,4,3
+identity,white,3,0,2,1
+identity,red,0,0,0,1
+identity,green,0,0,0,0
+identity,yellow,0,0,0,0
+identity,blue,0,0,0,1
+identity,brown,1,1,,
+identity,orange,,0,0,0
+identity,pink,,0,,0
+identity,purple,,,0,0
+identity,gray,,,,
+social movement,black,2,0,0,0
+social movement,white,1,0,0,0
+social movement,red,0,0,0,0
+social movement,green,0,0,0,0
+social movement,yellow,1,1,0,0
+social movement,blue,0,0,0,0
+social movement,brown,1,0,,
+social movement,orange,,0,0,0
+social movement,pink,,0,,0
+social movement,purple,,,0,0
+social movement,gray,,,,
+ecology,black,0,0,0,0
+ecology,white,0,0,0,0
+ecology,red,0,1,0,0
+ecology,green,1,2,0,3
+ecology,yellow,0,0,0,0
+ecology,blue,0,0,0,0
+ecology,brown,0,0,,
+ecology,orange,,1,0,0
+ecology,pink,,0,,0
+ecology,purple,,,0,0
+ecology,gray,,,,
+belief and ritual,black,0,0,1,0
+belief and ritual,white,0,1,0,0
+belief and ritual,red,0,0,0,0
+belief and ritual,green,0,0,0,0
+belief and ritual,yellow,1,0,0,0
+belief and ritual,blue,0,0,0,0
+belief and ritual,brown,0,0,,
+belief and ritual,orange,,0,0,0
+belief and ritual,pink,,0,,1
+belief and ritual,purple,,,5,1
+belief and ritual,gray,,,,
+warnings,black,0,0,0,0
+warnings,white,0,0,0,0
+warnings,red,0,0,0,0
+warnings,green,0,0,0,0
+warnings,yellow,1,0,3,1
+warnings,blue,0,0,0,0
+warnings,brown,0,0,,
+warnings,orange,,1,0,0
+warnings,pink,,0,,0
+warnings,purple,,,0,0
+warnings,gray,,,,
+conflict,black,0,0,0,1
+conflict,white,0,0,0,1
+conflict,red,2,3,3,2
+conflict,green,0,0,0,0
+conflict,yellow,0,0,0,0
+conflict,blue,0,1,1,3
+conflict,brown,0,0,,
+conflict,orange,,0,0,0
+conflict,pink,,0,,0
+conflict,purple,,,0,0
+conflict,gray,,,,
+politics,black,0,0,0,2
+politics,white,1,0,0,0
+politics,red,0,0,0,0
+politics,green,1,2,1,2
+politics,yellow,0,0,0,0
+politics,blue,1,0,0,2
+politics,brown,0,0,,
+politics,orange,,0,1,1
+politics,pink,,0,,0
+politics,purple,,,0,1
+politics,gray,,,,
+power structures,black,0,0,0,0
+power structures,white,0,0,0,1
+power structures,red,0,0,0,0
+power structures,green,1,0,0,0
+power structures,yellow,0,0,0,0
+power structures,blue,0,0,0,0
+power structures,brown,0,1,,
+power structures,orange,,1,0,0
+power structures,pink,,2,,0
+power structures,purple,,,0,1
+power structures,gray,,,,
+death,black,0,0,1,0
+death,white,0,0,0,0
+death,red,0,0,0,0
+death,green,0,0,0,0
+death,yellow,0,0,0,0
+death,blue,0,0,0,0
+death,brown,0,0,,
+death,orange,,0,0,0
+death,pink,,0,,0
+death,purple,,,1,0
+death,gray,,,,
+food,black,0,0,0,0
+food,white,0,0,0,0
+food,red,0,0,0,0
+food,green,0,0,0,0
+food,yellow,0,0,0,0
+food,blue,0,0,0,0
+food,brown,0,0,,
+food,orange,,0,0,0
+food,pink,,0,,0
+food,purple,,,0,0
+food,gray,,,,
+life experiences,black,0,0,0,0
+life experiences,white,0,0,0,0
+life experiences,red,0,0,0,0
+life experiences,green,0,0,0,0
+life experiences,yellow,0,0,0,0
+life experiences,blue,0,1,0,0
+life experiences,brown,0,0,,
+life experiences,orange,,0,0,0
+life experiences,pink,,0,,0
+life experiences,purple,,,1,0
+life experiences,gray,,,,
+arts,black,6,0,0,0
+arts,white,0,0,0,0
+arts,red,0,0,0,1
+arts,green,0,0,0,0
+arts,yellow,1,0,0,0
+arts,blue,0,0,1,0
+arts,brown,0,0,,
+arts,orange,,0,1,0
+arts,pink,,0,,0
+arts,purple,,,0,0
+arts,gray,,,,
+space,black,0,0,0,0
+space,white,0,0,0,0
+space,red,0,0,1,0
+space,green,0,0,0,0
+space,yellow,0,0,0,0
+space,blue,0,0,0,0
+space,brown,0,0,,
+space,orange,,0,0,0
+space,pink,,0,,0
+space,purple,,,0,0
+space,gray,,,,
+named entity,black,0,0,0,1
+named entity,white,0,0,0,0
+named entity,red,0,0,0,0
+named entity,green,1,0,0,0
+named entity,yellow,0,0,0,0
+named entity,blue,0,0,0,0
+named entity,brown,0,0,,
+named entity,orange,,0,0,0
+named entity,pink,,0,,0
+named entity,purple,,,0,0
+named entity,gray,,,,
+colour co-occurrence,black,0,0,0,0
+colour co-occurrence,white,1,0,0,0
+colour co-occurrence,red,0,0,0,1
+colour co-occurrence,green,0,0,0,1
+colour co-occurrence,yellow,0,0,0,0
+colour co-occurrence,blue,0,0,0,0
+colour co-occurrence,brown,0,0,,
+colour co-occurrence,orange,,0,0,0
+colour co-occurrence,pink,,0,,0
+colour co-occurrence,purple,,,0,0
+colour co-occurrence,gray,,,,
+physical description,black,0,0,0,0
+physical description,white,0,1,0,0
+physical description,red,0,0,0,0
+physical description,green,0,0,0,0
+physical description,yellow,0,0,0,0
+physical description,blue,0,0,0,0
+physical description,brown,0,0,,
+physical description,orange,,0,0,0
+physical description,pink,,0,,0
+physical description,purple,,,0,0
+physical description,gray,,,,
