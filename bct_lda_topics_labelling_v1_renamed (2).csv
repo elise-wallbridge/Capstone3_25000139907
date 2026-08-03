@@ -1,0 +1,661 @@
+lang,color,n_docs,n_proper_noun_flagged,pct_proper_noun_flagged,topic_idx,top_words,Translation ,primary,secondary,denonatitive or connotative,label
+en,black,1500,687,45.8,1,"black, british, dark, game, french, features, death, vinyl, form, gray",,Unknown,,unknown,Unknown
+en,black,1500,687,45.8,2,"black, king, film, 2020, beyoncé, james, fashion, disney, wrote, production",,Arts & entertainment,,Association,entertainment
+en,black,1500,687,45.8,3,"black, white, films, film, created, political, documentary, wearing, photographs, image",,Arts & entertainment,,Association,recording
+en,black,1500,687,45.8,4,"black, woman, country, sea, people, times, university, position, san, york",,named entity,,Occurence,Geographic
+en,black,1500,687,45.8,5,"black, 2018, county, school, brown, included, female, district, season, england",,Identity ,named entity,Occurence,Institutions? 
+en,black,1500,687,45.8,6,"black, lives, matter, 2020, movement, united, july, reid, power, protests",,Social Movement,Identity ,Association,Social movents 
+en,black,1500,687,45.8,7,"black, american, film, directed, art, book, published, starring, historian, civil",,Arts & entertainment,Identity ,Association,Art
+en,black,1500,687,45.8,8,"black, race, heart, bart, social, stakes, war, hair, white, people",,Identity ,,Association,race and identity
+en,black,1500,687,45.8,9,"black, african, art, american, team, national, artists, city, exhibition, king",,Arts & entertainment,Identity ,Association,art and identity
+en,black,1500,687,45.8,10,"black, 2019, community, called, public, played, review, april, television, event",,Unknown,,unknown,unknown
+en,black,1500,687,45.8,11,"women, black, white, asian, 2013, ethnic, manager, harry, sirius, wealth",,Identity ,,Association,identity
+en,black,1500,687,45.8,12,"black, people, white, colors, background, children, color, center, police, style",,Identity ,Arts & entertainment,Association,identity / aesthetics?
+en,black,1500,687,45.8,13,"black, hole, white, holes, racial, light, body, party, universe, report",,Space,,Occurence,space
+en,black,1500,687,45.8,14,"black, history, month, 2016, canadian, 2022, 2021, women, collective, 100",,Social Movement,,Association,Social movements
+en,black,1500,687,45.8,15,"black, king, music, video, song, beyoncé, album, brown, film, blue",,Arts & entertainment,,Association,aesthetics
+en,white,1500,464,30.9,1,"white, black, called, brown, video, set, john, supremacy, wrote, hair",,Identity ,,Association,unknown
+en,white,1500,464,30.9,2,"white, people, black, petals, shaped, arranged, covered, flowers, sepals, coloured",,Arts & entertainment,Identity ,Occurence,Aesthetics / race
+en,white,1500,464,30.9,3,"background, style, white, colspan, align, color, center, 3rd, 000099, culture",,Noise,,unknown,noise
+en,white,1500,464,30.9,4,"white, city, house, ethnic, mothers, american, national, health, event, north",,Politics & ideology,Social Movement,Occurence,social or political movements 
+en,white,1500,464,30.9,5,"white, lbs, supremacist, 2021, prison, championships, aryan, named, ncaa, 285",,Politics & ideology,Social Movement,Association,race supremacism and atheletics 
+en,white,1500,464,30.9,6,"white, black, films, blue, french, anderson, spruce, wolf, american, lake",,Ecology & environment,Arts & entertainment,unknown,culture/nature
+en,white,1500,464,30.9,7,"white, american, university, william, african, marble, born, life, theatre, south",,Unknown,,Occurence,life 
+en,white,1500,464,30.9,8,"white, house, president, trump, george, wife, power, fight, aspen, rolls",,Politics & ideology,,Occurence,Politics 
+en,white,1500,464,30.9,9,"white, black, red, including, women, racial, colors, film, blue, times",,Colour co-occurrence,Identity ,Association,Aesthetics / race
+en,white,1500,464,30.9,10,"white, leaves, flowers, leaf, borne, axils, press, panicles, late, eagle",,physical description,,Occurence,plants
+en,white,1500,464,30.9,11,"white, species, silver, 2018, 2019, chief, center, obama, color, including",,Unknown,,unknown,unknown
+en,white,1500,464,30.9,12,"white, dwarf, stated, reviewed, dave, langford, series, dana, contender, july",,Arts & entertainment,,Occurence,media 
+en,white,1500,464,30.9,13,"white, house, united, island, army, painted, james, gray, american, father",,Politics & ideology,,Occurence,Politics 
+en,white,1500,464,30.9,14,"white, edition, issue, light, 1984, game, racism, women, song, august",,Identity ,,Association,unknown
+en,white,1500,464,30.9,15,"white, green, river, football, season, ohio, horse, team, west, held",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,1,"red, black, colors, deer, play, white, minute, devils, green, english",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,red,1500,955,63.7,2,"red, football, seasons, cornell, bull, race, racing, mountain, college, chief",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,3,"red, army, cross, national, 000, people, union, military, soldiers, ukrainian",,Conflict ,,Association,military/ politics
+en,red,1500,955,63.7,4,"red, 2020, league, 2019, club, series, october, wolves, chattanooga, season",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,5,"red, york, bulls, 2020, players, 2021, debut, championship, usl, signed",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,6,"red, white, players, brick, minneapolis, jackets, blue, hood, constructed, roof",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,7,"football, cornell, red, team, university, season, american, represented, division, ncaa",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,8,"red, game, september, army, banner, 2020, urawa, diamonds, ball, southern",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,9,"red, blue, green, yellow, black, white, blood, colour, video, brown",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,red,1500,955,63.7,10,"red, opponents, ivy, cross, outscored, star, american, including, called, left",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,11,"red, flag, sea, oak, caboose, western, upper, carpet, pro, april",,Ecology & environment,,Occurence,Red compound words
+en,red,1500,955,63.7,12,"red, football, jackets, played, 1930, national, league, minneapolis, nfl, guard",,named entity,,Occurence,athletics 
+en,red,1500,955,63.7,13,"red, river, card, sox, war, book, party, north, boston, family",,named entity,,Occurence,red names
+en,red,1500,955,63.7,14,"red, february, album, 2018, january, nbc, blue, russian, announced, 19",,Unknown,,unknown,politics 
+en,red,1500,955,63.7,15,"red, army, square, parade, military, soviet, birds, moscow, day, school",,Conflict ,,Association,political / military
+en,green,1500,741,49.4,1,"green, football, team, league, college, dartmouth, season, building, american, division",,named entity,,Occurence,athletics 
+en,green,1500,741,49.4,2,"green, land, screen, 2019, film, grabbing, card, live, house, including",,Arts & entertainment,named entity,Occurence,media / green compound words
+en,green,1500,741,49.4,3,"green, white, colours, gold, south, included, station, avenue, war, route",,Ecology & environment,,unknown,geographic
+en,green,1500,741,49.4,4,"green, party, jersey, leader, classification, wore, national, zone, leadership, tree",,named entity,Politics & ideology,Association,politics?
+en,green,1500,741,49.4,5,"green, university, peter, goblin, club, harry, river, central, rowing, wisconsin",,Unknown,,unknown,unknown
+en,green,1500,741,49.4,6,"green, school, street, cemetery, party, wood, climate, london, players, local",,Ecology & environment,,Occurence,community or institutions
+en,green,1500,741,49.4,7,"green, dartmouth, football, seasons, light, rail, calgary, alberta, canada, planned",,named entity,,Occurence,Calgary train system / athletics
+en,green,1500,741,49.4,8,"green, bowling, 2021, recovery, 2020, july, covid, 19, june, played",,named entity,,Occurence,unknown?
+en,green,1500,741,49.4,9,"green, board, california, county, located, women, traffic, lost, director, average",,Power structures or hierarchies,,Occurence,life / institutions
+en,green,1500,741,49.4,10,"green, bay, public, energy, party, sustainable, including, government, packers, petals",,Ecology & environment,Power structures or hierarchies,Association,environment
+en,green,1500,741,49.4,11,"green, city, family, space, painted, park, 2017, species, april, church",,Ecology & environment,,Occurence,community or institutions
+en,green,1500,741,49.4,12,"green, form, lobe, wide, head, tube, sepals, lobes, upper, coach",,physical description,,Occurence,environment
+en,green,1500,741,49.4,13,"green, station, district, metro, federal, production, orange, brazilian, lines, matt",,named entity,,Occurence,infrastructure
+en,green,1500,741,49.4,14,"green, red, blue, black, yellow, dark, brown, white, gray, bright",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,green,1500,741,49.4,15,"green, leaves, shaped, egg, narrow, flowers, hairs, wide, covered, shrub",,physical description,,Occurence,environment
+en,yellow,1500,391,26.1,1,"yellow, river, banner, chinese, clan, consort, bordered, golden, plain, heads",,Belief and ritual,,Association,chinese institutions?
+en,yellow,1500,391,26.1,2,"yellow, red, blue, white, green, orange, colour, colours, wearing, bright",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,yellow,1500,391,26.1,3,"yellow, flowers, leaves, shaped, pink, white, shrub, greenish, red, pale",,physical description,,Occurence,environment /colours
+en,yellow,1500,391,26.1,4,"yellow, jackets, players, frankford, jersey, wore, classification, sun, stage, win",,named entity,,Occurence,athletics 
+en,yellow,1500,391,26.1,5,"yellow, card, cards, red, received, station, washington, minute, silver, match",,Arts & entertainment,Conflict ,Occurence,athletics 
+en,yellow,1500,391,26.1,6,"yellow, fever, brown, expression, 18, body, bellied, light, pigmentation, reddish",,Warnings,Warnings,Association,illness / environment
+en,yellow,1500,391,26.1,7,"yellow, time, gray, indian, late, black, rose, flags, red, bridge",,Arts & entertainment,,Occurence,Aesthetics
+en,yellow,1500,391,26.1,8,"yellow, common, western, jersey, eurasian, european, heron, northern, team, black",,Ecology & environment,,Occurence,geographic
+en,yellow,1500,391,26.1,9,"yellow, black, banner, species, include, south, hong, kong, font, central",,Arts & entertainment,Ecology & environment,Occurence,geographic
+en,yellow,1500,391,26.1,10,"yellow, spots, form, brown, segments, race, king, sponge, final, police",,Unknown,,unknown,unknown
+en,yellow,1500,391,26.1,11,"yellow, black, painted, matter, flag, lives, street, june, city, white",,Social Movement,Arts & entertainment,Association,social or political movements 
+en,yellow,1500,391,26.1,12,"yellow, head, red, surface, november, species, july, flowers, black, region",,Unknown,,unknown,unknown
+en,yellow,1500,391,26.1,13,"yellow, jackets, football, played, arsenic, frankford, league, national, nfl, season",,named entity,,Occurence,athletics 
+en,yellow,1500,391,26.1,14,"yellow, blue, color, book, colors, green, red, brown, white, background",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,yellow,1500,391,26.1,15,"yellow, pale, white, base, pine, flower, blue, ribbon, stripes, wide",,physical description,Arts & entertainment,Occurence,environment 
+en,blue,1500,885,59,1,"blue, city, kansas, league, stockings, jazz, blues, house, studio, terrasson",,Arts & entertainment,,Occurence,athletics / music 
+en,blue,1500,885,59,2,"blue, red, white, yellow, players, colour, collar, flag, winnipeg, bombers",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,blue,1500,885,59,3,"blue, play, mountains, gold, club, life, sky, season, florida, jays",,named entity,,Occurence,geographic / athletics
+en,blue,1500,885,59,4,"blue, shift, including, election, eyes, party, 2018, july, colored, votes",,Politics & ideology,,Association,political
+en,blue,1500,885,59,5,"blue, black, note, album, records, released, vinyl, white, brown, albums",,Arts & entertainment,,Occurence,colours / music 
+en,blue,1500,885,59,6,"blue, water, river, 14, jays, 12, london, theatre, azure, house",,Ecology & environment,,Occurence,nature
+en,blue,1500,885,59,7,"blue, league, ridge, station, metro, lines, washington, team, games, west",,named entity,,Occurence,geographic / athletics
+en,blue,1500,885,59,8,"blue, devils, duke, album, band, women, series, green, players, basketball",,named entity,,Occurence,athletics
+en,blue,1500,885,59,9,"blue, played, bombers, winnipeg, book, football, player, canadian, born, korean",,named entity,,Occurence,athletics
+en,blue,1500,885,59,10,"hens, blue, delaware, football, fightin, seasons, 1952, 1957, including, initially",,named entity,,Occurence,athletics
+en,blue,1500,885,59,11,"blue, nbc, stars, network, sea, set, star, called, painted, red",,Arts & entertainment,,Occurence,media
+en,blue,1500,885,59,12,"football, team, delaware, college, university, blue, season, american, represented, hens",,named entity,,Occurence,education / athletics
+en,blue,1500,885,59,13,"blue, white, pale, game, light, song, colours, purple, orange, flowers",,Colour co-occurrence,Arts & entertainment,Occurence,colours / environment
+en,blue,1500,885,59,14,"blue, green, colors, silver, yellow, dark, ribbon, main, company, wall",,Arts & entertainment,,Occurence,colours
+en,blue,1500,885,59,15,"blue, film, awards, dragon, record, award, held, total, season, head",,named entity,,Occurence,award? 
+en,brown,1500,778,51.9,1,"brown, black, dark, yellow, white, color, blue, green, red, species",,Colour co-occurrence,,Occurence,colour / aesthetics
+en,brown,1500,778,51.9,2,"brown, football, team, university, played, games, island, season, providence, represented",,named entity,,Occurence,athletics
+en,brown,1500,778,51.9,3,"brown, women, college, film, 2019, book, time, president, director, center",,named entity,,Occurence,Institutions
+en,brown,1500,778,51.9,4,"brown, haig, season, named, captain, record, west, time, robert, roderick",,named entity,,Occurence,athletics 
+en,brown,1500,778,51.9,5,"brown, skin, national, girl, museum, march, head, received, university, ferguson",,Identity ,Social Movement,Association,social movement 
+en,brown,1500,778,51.9,6,"brown, reddish, white, shaped, pale, governor, body, bear, local, egg",,physical description,,Occurence,environment
+en,brown,1500,778,51.9,7,"brown, chris, released, track, singer, song, series, album, house, ann",,Arts & entertainment,,Occurence,entertainment
+en,brown,1500,778,51.9,8,"brown, university, born, american, alumni, 2018, college, jr, degree, anthony",,named entity,,Occurence,education
+en,brown,1500,778,51.9,9,"brown, bears, seasons, football, published, south, 2001, expedition, van, eyed",,named entity,,Occurence,environment / athletics 
+en,brown,1500,778,51.9,10,"brown, play, yellowish, alexander, modern, daniel, russell, game, wife, future",,Unknown,,unknown,unknown 
+en,brown,1500,778,51.9,11,"brown, charlie, film, named, buechner, department, boy, soundtrack, red, colour",,Arts & entertainment,named entity,Occurence,entertainment 
+en,brown,1500,778,51.9,12,"brown, county, district, including, written, southern, court, public, wisconsin, city",,named entity,,Occurence,institutions
+en,brown,1500,778,51.9,13,"brown, league, ivy, finished, tied, professor, university, fulton, fourth, chicago",,named entity,,Occurence,education / athletics
+en,brown,1500,778,51.9,14,"brown, john, james, music, album, peter, wrote, hall, square, charles",,named entity,,Occurence,names
+en,brown,1500,778,51.9,15,"brown, school, law, york, united, american, 2020, august, november, october",,named entity,,Occurence,education 
+en,orange,1500,730,48.7,1,"orange, yellow, fruit, principality, association, list, petals, include, complete, lemon",,Ecology & environment,,Occurence,environment 
+en,orange,1500,730,48.7,2,"orange, south, family, cake, 15, avenue, ireland, day, vanilla, island",,Food & drink,,Occurence,food
+en,orange,1500,730,48.7,3,"orange, school, city, county, served, beach, january, season, street, florida",,Life experiences,,Occurence,geographic
+en,orange,1500,730,48.7,4,"orange, 000, exclusive, red, limited, created, stripes, yellow, street, named",,Arts & entertainment,,Occurence,colour / aesthetics 
+en,orange,1500,730,48.7,5,"orange, book, 2021, texas, 2020, war, bowl, moved, february, blue",,Unknown,,unknown,unknown 
+en,orange,1500,730,48.7,6,"orange, bowl, championship, league, played, national, football, tornadoes, series, county",,named entity,,Occurence,athletics
+en,orange,1500,730,48.7,7,"orange, red, flowers, leaves, shaped, species, white, yellow, pale, yellowish",,Ecology & environment,,Occurence,environment
+en,orange,1500,730,48.7,8,"orange, county, florida, district, station, public, brown, lake, metro, green",,Ecology & environment,,Occurence,geographic 
+en,orange,1500,730,48.7,9,"orange, county, california, jersey, east, born, york, players, school, american",,named entity,,Occurence,athletics / geographic
+en,orange,1500,730,48.7,10,"orange, club, football, athletic, team, film, golden, award, american, festival",,named entity,,Occurence,entertainment / athletics
+en,orange,1500,730,48.7,11,"orange, water, john, los, angeles, studios, album, studio, blossom, company",,Arts & entertainment,,Occurence,entertainment
+en,orange,1500,730,48.7,12,"orange, black, blue, green, color, white, bright, red, yellow, brown",,Colour co-occurrence,,Occurence,colour/aesthetics
+en,orange,1500,730,48.7,13,"orange, prince, juice, included, including, william, silver, van, town, cocktail",,Food & drink,,Occurence,food 
+en,orange,1500,730,48.7,14,"orange, syracuse, jersey, players, 2020, people, football, basketball, october, women",,named entity,,Occurence,athletics
+en,orange,1500,730,48.7,15,"orange, nassau, north, metro, nagpur, south, william, station, corridor, elevated",,named entity,,Occurence,geographic 
+en,pink,1500,464,30.9,1,"pink, film, sandstone, loerie, western, station, china, slip, knysna, composed",,named entity,,Occurence,geographic  / entertainment
+en,pink,1500,464,30.9,2,"pink, blue, color, green, yellow, red, white, light, orange, black",,Colour co-occurrence,,Occurence,colour/aesthetics
+en,pink,1500,464,30.9,3,"pink, women, museum, palace, south, cream, copies, project, black, variety",,Life experiences,,Occurence,institutions
+en,pink,1500,464,30.9,4,"pink, floyd, album, style, band, song, background, released, music, lady",,named entity,,Occurence,entertainment 
+en,pink,1500,464,30.9,5,"pink, wore, wearing, team, cloud, garden, jersey, stage, classification, plants",,physical description,,Occurence,unknown 
+en,pink,1500,464,30.9,6,"pink, petals, sepals, white, party, marble, triangular, flower, hair, shaped",,physical description,,Occurence,environment 
+en,pink,1500,464,30.9,7,"pink, gay, original, 2018, 2019, house, soundtrack, announced, loerie, motion",,named entity,,Occurence,entertainment
+en,pink,1500,464,30.9,8,"pink, plant, flowers, short, bright, flower, green, gold, flowering, time",,physical description,,Occurence,environment / aesthetics
+en,pink,1500,464,30.9,9,"pink, rose, panther, series, granite, english, color, june, common, television",,named entity,,Occurence,entertainment 
+en,pink,1500,464,30.9,10,"pink, water, day, flowers, stems, growing, summer, tank, spring, cover",,physical description,,Occurence,environment 
+en,pink,1500,464,30.9,11,"pink, code, city, dress, gray, black, brown, 16, tones, edition",,Colour co-occurrence,,Occurence,colours
+en,pink,1500,464,30.9,12,"pink, colored, rock, play, rocks, green, rounded, cards, performance, paint",,Arts & entertainment,Ecology & environment,Occurence,entertainment / environment
+en,pink,1500,464,30.9,13,"pink, white, flowers, purple, yellow, florets, red, shaped, pale, head",,physical description,Ecology & environment,Occurence,environment
+en,pink,1500,464,30.9,14,"pink, leaves, flowers, shrub, pale, shaped, white, arranged, red, egg",,physical description,Ecology & environment,Occurence,environment
+en,pink,1500,464,30.9,15,"pink, species, dianthus, black, character, family, called, native, duck, body",,physical description,Ecology & environment,Occurence,environment 
+en,purple,1500,534,35.6,1,"purple, released, tree, lakers, diameter, gold, 25, album, wore, fruit",,named entity,,Occurence,unknown
+en,purple,1500,534,35.6,2,"purple, pink, white, florets, flowers, yellow, colour, ribbon, season, head",,physical description,,Occurence,environment
+en,purple,1500,534,35.6,3,"purple, deep, party, band, voiced, house, hair, dog, rock, including",,named entity,,Occurence,entertainment
+en,purple,1500,534,35.6,4,"purple, shaped, base, 2018, yellow, corolla, herb, short, stem, fruit",,physical description,,Occurence,food
+en,purple,1500,534,35.6,5,"purple, metro, station, corridor, india, elevated, east, west, namma, south",,named entity,,Occurence,geographic 
+en,purple,1500,534,35.6,6,"purple, colors, school, mountain, united, pilgrims, knights, october, represent, gold",,named entity,,Occurence,geographic 
+en,purple,1500,534,35.6,7,"purple, grass, team, disco, machine, song, rain, played, featured, moor",,Arts & entertainment,,Occurence,environment /entertainment
+en,purple,1500,534,35.6,8,"purple, green, blue, black, colours, brown, hills, light, red, grey",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,purple,1500,534,35.6,9,"purple, white, color, yellow, blue, orange, red, petals, pink, green",,Arts & entertainment,,Occurence,colour / aesthetics 
+en,purple,1500,534,35.6,10,"purple, leaves, flowers, shaped, shrub, egg, erect, cross, mauve, leaf",,physical description,,Occurence,environment 
+en,purple,1500,534,35.6,11,"purple, 2023, court, civil, pcmc, 2022, july, series, bhavan, southern",,named entity,,Occurence,unknown 
+en,purple,1500,534,35.6,12,"purple, heart, star, medal, awarded, service, distinguished, received, war, bronze",,named entity,,Occurence,award
+en,purple,1500,534,35.6,13,"purple, flowers, lobes, upper, lobe, wide, white, kiss, sepals, single",,physical description,,Occurence,environment
+en,purple,1500,534,35.6,14,"purple, tube, petals, mauve, white, dark, light, spots, brown, form",,physical description,,Occurence,environment
+en,purple,1500,534,35.6,15,"purple, common, species, red, brown, black, reddish, flowers, dark, white",,Colour co-occurrence,Ecology & environment,Occurence,environment / colours
+en,gray,1500,553,36.9,1,"gray, inn, zealand, party, grey, leader, house, governor, james, lieutenant",,named entity,,Occurence,politics 
+en,gray,1500,553,36.9,2,"grey, gray, film, character, series, anatomy, announced, album, based, cast",,named entity,Arts & entertainment,Occurence,entertainment
+en,gray,1500,553,36.9,3,"gray, chantelle, willow, white, stone, band, named, taylor, including, basquiat",,Arts & entertainment,,Occurence,entertainment / aesthetics
+en,gray,1500,553,36.9,4,"gray, color, daughter, grey, runs, wife, game, nationals, 2022, innings",,named entity,,Occurence,athletics / life
+en,gray,1500,553,36.9,5,"gray, black, grey, white, dark, green, blue, red, light, brown",,Colour co-occurrence,,Occurence,colours / aesthetics
+en,gray,1500,553,36.9,6,"grey, jean, lady, film, street, sloan, levi, jane, january, janssen",,named entity,,Occurence,proper names
+en,gray,1500,553,36.9,7,"grey, south, born, wolf, period, led, zone, public, birds, named",,physical description,,Occurence,environment 
+en,gray,1500,553,36.9,8,"grey, voiced, son, griffin, david, covered, water, hairs, 2020, shades",,Unknown,,unknown,unknown 
+en,gray,1500,553,36.9,9,"grey, college, time, county, building, council, berkshire, built, race, left",,Life experiences,Power structures or hierarchies,Occurence,institutions
+en,gray,1500,553,36.9,10,"gray, book, red, orange, grey, blue, century, published, war, yellow",,Arts & entertainment,,Occurence,colours / entertainment
+en,gray,1500,553,36.9,11,"grey, gray, brown, school, pale, common, upper, university, surface, art",,Colour co-occurrence,,Occurence,institution / colours
+en,gray,1500,553,36.9,12,"gray, grey, limestone, formation, sandstone, brown, florida, consists, children, fine",,Colour co-occurrence,,Occurence,environment / geographic 
+en,gray,1500,553,36.9,13,"gray, april, american, 17, 29, vermont, law, league, 24, march",,Noise,,unknown,unknown 
+en,gray,1500,553,36.9,14,"gray, september, 12, august, rockies, 18, july, arsenic, 11, l1",,Noise,,unknown,unknown 
+en,gray,1500,553,36.9,15,"grey, season, cup, john, including, award, charles, gray, 2017, earl",,named entity,,Occurence,athletics
+fr,black,1500,226,15.1,1,"noire, cours, eau, vallée, grande, point, projet, pointe, peinture, congo","black, river/course, water, valley, large, point, project, tip, painting, Congo",Ecology & environment,named entity,Occurence,environment / education?
+fr,black,1500,226,15.1,2,"noir, 2014, prix, enfants, peur, théâtre, québec, conseil, meilleur, femme","black, 2014, award, children, fear, theatre, Quebec, advice, best, woman",Arts & entertainment,,Occurence,award
+fr,black,1500,226,15.1,3,"noires, noirs, noire, taches, chevaliers, maladie, nuit, fée, membre, mains","black, black people, black woman, spots, knights, illness, night, fairy, limb, hands",Unknown,,unknown,myths / illness
+fr,black,1500,226,15.1,4,"rivière, noires, épinettes, péribonka, côté, nord, alex, ouest, petite, lac","river, black, spruce, Péribonka, side, north, Alex, west, small, lake",Ecology & environment,,Occurence,geographic / nature 
+fr,black,1500,226,15.1,5,"noir, rouge, blanc, couleurs, trou, vote, jaune, couleur, supermassif, forme","black, red, white, colours, hole, vote, yellow, colour, supermassive, shape",Colour co-occurrence,,Occurence,space / colours 
+fr,black,1500,226,15.1,6,"noir, or, porte, russe, petit, éclair, 2009, argent, public, rive","black, gold, door, Russian, small, lightning, 2009, silver, public, riverbank",Colour co-occurrence,,Occurence,
+fr,black,1500,226,15.1,7,"noirs, noires, catégories, fin, années, moutons, généralement, fées, monde, marie","black men, black women, categories, end, years, sheep, generally, fairies, world, Marie",Unknown,,unknown,
+fr,black,1500,226,15.1,8,"noir, scène, blanc, film, muet, met, réalisé, festival, pin, premiers","black, scene, white, film, silent, directed, festival, pine, premieres",Arts & entertainment,,Occurence,
+fr,black,1500,226,15.1,9,"noire, noirs, pointe, blancs, ans, noir, père, embouchure, époque, village","black, blacks, tip, whites, years, black, father, mouthpiece, era, village",Life experiences,,Occurence,
+fr,black,1500,226,15.1,10,"noir, blanc, film, français, américain, italien, britannique, allemand, japonais, danois","black, white, film, French, American, Italian, British, German, Japanese, Danish",Ecology & environment,named entity,Occurence,
+fr,black,1500,226,15.1,11,"noire, noires, canal, rue, forêt, ville, principalement, partie, lac, rose","black, blacks, canal, street, forest, town, mainly, part, lake, pink",Ecology & environment,,Occurence,
+fr,black,1500,226,15.1,12,"noire, lac, sud, noir, pays, noirs, cheveux, ouest, montagne, longueur","black, lake, south, black, country, black people, hair, west, mountain, length",Identity ,,Association,
+fr,black,1500,226,15.1,13,"format, blanc, noir, muet, 33, mm, 35, mono, 37, 66","format, black and white, silent, 33, mm, 35, mono, 37, 66",Arts & entertainment,,Occurence,Entertainment
+fr,black,1500,226,15.1,14,"noire, mer, sud, cours, noir, bassin, jean, région, clotilde, espèces","black, sea, south, river, black, basin, jeans, region, Clotilde, species",named entity,Ecology & environment,Occurence,
+fr,black,1500,226,15.1,15,"noire, lanterne, mer, blanc, phare, peint, dôme, corps, couleur, flotte","black, lantern, sea, white, lighthouse, painted, dome, body, colour, fleet",physical description,,Occurence,
+fr,white,1500,177,11.8,1,"blanc, noir, film, français, italien, allemand, foncé, pyrenaearia, coquille, brun","white, black, film, French, Italian, German, dark, Pyrenaearia, shell, brown",Arts & entertainment,Colour co-occurrence,Occurence,
+fr,white,1500,177,11.8,2,"blanc, blanche, pont, fin, série, équipe, mont, manger, membre, hommage","white, white, bridge, end, series, team, mount, to eat, member, tribute",Arts & entertainment,,Occurence,
+fr,white,1500,177,11.8,3,"blanches, blanc, bandes, brun, partie, horizontales, blanche, taches, ville, rouge","white, white, bands, brown, part, horizontal, white, spots, town, red",Identity ,,Occurence,
+fr,white,1500,177,11.8,4,"blanche, rivière, nord, lac, sud, ouest, blanc, côté, filles, lumière","white, river, north, lake, south, west, white, side, girls, light",Ecology & environment,,Occurence,
+fr,white,1500,177,11.8,5,"blancs, éclats, clotilde, brefs, 12, temps, blanche, maison, hommes, route","white, flashes, Clotilde, brief, 12, time, white, house, men, road",Belief and ritual,physical description,Association,
+fr,white,1500,177,11.8,6,"blanc, lanterne, phare, tour, peint, blanche, rouge, peinte, dôme, noire","white, lantern, lighthouse, tower, painted, white, red, painted, dome, black",Arts & entertainment,Colour co-occurrence,Occurence,
+fr,white,1500,177,11.8,7,"blanche, blanc, fleurs, blancs, robe, enfants, clough, femmes, galerie, nouvelle","white, white, flowers, white, dress, children, Clough, women, gallery, new",Arts & entertainment,,Occurence,
+fr,white,1500,177,11.8,8,"blanche, blanc, couleur, bande, rose, corps, jaune, maison, large, manteau","white, white, colour, band, pink, body, yellow, house, wide, coat",Colour co-occurrence,,Occurence,
+fr,white,1500,177,11.8,9,"nautiques, feu, milles, km, blanc, portée, rouge, vert, 19, 20","nautical, light, miles, km, white, range, red, green, 19, 20",Colour co-occurrence,,Occurence,
+fr,white,1500,177,11.8,10,"blanc, forme, présente, foncé, solide, secteur, dorsale, québec, face, gris","white, form, presents, dark, solid, sector, ridge, Quebec, face, grey",Identity ,,Occurence,
+fr,white,1500,177,11.8,11,"blanc, blanches, blanche, pierre, porte, charles, années, origine, blancs, photographie","white, white, white, stone, door, Charles, years, origin, white, photography",Arts & entertainment,,Occurence,
+fr,white,1500,177,11.8,12,"blanc, noir, film, américain, muet, britannique, scène, met, japonais, livre","white, black, film, American, silent, British, scene, puts, Japanese, book",Arts & entertainment,,Occurence,
+fr,white,1500,177,11.8,13,"format, blanc, noir, muet, 33, 35, mm, mono, 37, philippe","format, white, black, silent, 33, 35, mm, mono, 37, Philippe",Arts & entertainment,,Occurence,
+fr,white,1500,177,11.8,14,"émet, hauteur, focale, secondes, période, blanc, éclat, feu, long, secteurs","emits, height, focal, seconds, period, white, flash, light, long, sectors",Arts & entertainment,,Occurence,
+fr,white,1500,177,11.8,15,"blanche, blancs, noirs, bois, maison, new, carte, louis, 2017, york","white (f.), white (m.pl.), black (m.pl.), wood, house, new, map, Louis, 2017, York",Unknown,,unknown,
+fr,red,1500,326,21.7,1,"jour, rouge, donne, mesure, décalage, basée, redshift, distance, portrait, cas","day, red, gives, measure, shift, based, redshift, distance, portrait, case",Arts & entertainment,,Occurence,
+fr,red,1500,326,21.7,2,"rouge, hauteur, focale, émet, secondes, secteurs, blanc, éclat, feu, période","red, height, focal, emits, seconds, sectors, white, flash, light, period",Arts & entertainment,,Occurence,
+fr,red,1500,326,21.7,3,"rouge, vert, couleurs, jaune, noir, bleu, rouges, couleur, foncé, the","red, green, colours, yellow, black, blue, reds, colour, dark, the",Colour co-occurrence,,Occurence,
+fr,red,1500,326,21.7,4,"rouge, nautiques, feu, milles, km, drapeau, blanc, ordre, portée, travail","red, nautical, light, miles, km, flag, white, order, range, work",Colour co-occurrence,,Occurence,
+fr,red,1500,326,21.7,5,"rivière, rouge, lac, côté, péribonka, sud, épinette, nord, port, production","river, red, lake, side, Péribonka, south, spruce, north, port, production",named entity,,Occurence,
+fr,red,1500,326,21.7,6,"rouge, croix, espèces, livre, petit, nom, rue, armée, espèce, allemagne","red, cross, species, book, small, name, street, army, species, Germany",Conflict ,,Association,
+fr,red,1500,326,21.7,7,"rouges, rouge, jaunes, mer, france, bleus, armée, blancs, guerre, épreuve","reds, red, yellows, sea, France, blues, army, whites, war, event",Conflict ,,Association,
+fr,red,1500,326,21.7,8,"rouge, carton, ange, ensemble, points, noire, rouges, voit, temps, terrain","red, card, angel, together, points, black, reds, sees, time, field",named entity,,Occurence,
+fr,red,1500,326,21.7,9,"rouge, liste, partie, uicn, armée, écosystèmes, bois, critères, grand, espèce","red, list, part, IUCN, army, ecosystems, wood, criteria, large, species",Ecology & environment,,Association,
+fr,red,1500,326,21.7,10,"rouge, fleurs, rouges, guerre, groupe, croix, pétales, fin, doubles, forme","red, flowers, reds, war, group, cross, petals, end, doubles, form",Conflict ,,Association,
+fr,red,1500,326,21.7,11,"rouge, pierre, rouges, briques, saint, blanc, ligne, centre, bâtiment, toit","red, stone, reds, bricks, saint, white, line, centre, building, roof",Arts & entertainment,,Occurence,
+fr,red,1500,326,21.7,12,"rouge, tour, peinte, lanterne, rouges, bandes, blanche, blanc, blanches, phare","red, tower, painted, lantern, reds, bands, white, white, whites, lighthouse",physical description,,Occurence,
+fr,red,1500,326,21.7,13,"rouges, rouge, équipe, monde, danger, titre, autour, français, émilie, homme","reds, red, team, world, danger, title, around, French, Émilie, man",named entity,,Occurence,
+fr,red,1500,326,21.7,14,"distance, décalage, rouge, donnent, mesures, basées, redshift, jour, hubble, valeurs","distance, shift, red, give, measures, based, redshift, day, Hubble, values",Arts & entertainment,,Occurence,
+fr,red,1500,326,21.7,15,"rouge, couleur, étoile, rose, belgrade, ordre, studio, orange, brun, récipiendaire","red, colour, star, pink, Belgrade, order, studio, orange, brown, recipient",Colour co-occurrence,,Occurence,
+fr,green,1500,340,22.7,1,"vert, cap, espace, parc, bois, saint, thé, situé, large, vigoureux","green, cape, space, park, wood, saint, tea, located, wide, vigorous",Ecology & environment,,Occurence,
+fr,green,1500,340,22.7,2,"vert, victoire, points, défaite, tapis, match, écart, marqués, forfait, essais","green, victory, points, defeat, carpet, match, gap, scored, forfeit, tries",Life experiences,,Occurence,
+fr,green,1500,340,22.7,3,"vertes, vert, famille, bruxelles, chasseur, avenue, production, nom, chemin, également","green, green, family, Brussels, hunter, avenue, production, name, path, also",Unknown,,unknown,
+fr,green,1500,340,22.7,4,"vert, bleu, rouge, couleurs, noir, rose, pierre, jaune, couleur, ciel","green, blue, red, colours, black, pink, stone, yellow, colour, sky",Colour co-occurrence,,Occurence,
+fr,green,1500,340,22.7,5,"verte, grand, vert, ceinture, centre, île, lil, londres, nouvelle, création","green, large, green, belt, centre, island, Lil, London, new, creation",Unknown,,unknown,
+fr,green,1500,340,22.7,6,"parti, verts, alliance, vert, élections, coalition, gouvernement, 90, politique, gauche","party, greens, alliance, green, elections, coalition, government, 90, politics, left",Politics & ideology,,Association,
+fr,green,1500,340,22.7,7,"verts, europe, écologie, parti, mouvement, liste, gauche, ancien, yeux, cheveux","greens, Europe, ecology, party, movement, list, left, former, eyes, hair",Politics & ideology,,Association,
+fr,green,1500,340,22.7,8,"vert, blanc, hauteur, secondes, focale, émet, feu, couleur, rouge, période","green, white, height, focal, seconds, emits, light, colour, red, period",named entity,,Occurence,
+fr,green,1500,340,22.7,9,"verte, ligne, ville, cours, croissance, partir, québec, déchets, candidate, temps","green, line, town, course, growth, from, Quebec, waste, candidate, time",named entity,,Occurence,
+fr,green,1500,340,22.7,10,"vert, feuillage, foncé, cm, buisson, clair, brillant, feuilles, élève, hauteur","green, foliage, dark, cm, bush, light, bright, leaves, rises, height",Ecology & environment,,Occurence,
+fr,green,1500,340,22.7,11,"vert, lac, rivière, jaune, rouge, sud, côté, nord, couleur, belle","green, lake, river, yellow, red, south, side, north, colour, beautiful",Colour co-occurrence,,Occurence,
+fr,green,1500,340,22.7,12,"feu, vert, groupe, nautiques, km, milles, rouge, député, européen, ange","light, green, group, nautical, km, miles, red, MP, European, angel",named entity,,Occurence,
+fr,green,1500,340,22.7,13,"vert, maillot, porte, points, classement, envergure, 30, jaune, groupe, mm","green, jersey, wears, points, classification, span, 30, yellow, group, mm",physical description,,Occurence,
+fr,green,1500,340,22.7,14,"verte, france, présente, érigé, port, énergie, forme, électricité, épineux, écologique","green, France, presents, erected, port, energy, form, electricity, thorny, ecological",Ecology & environment,,Association,
+fr,green,1500,340,22.7,15,"verts, verte, espaces, place, rue, partie, liste, rouges, chef, paris","greens, green, spaces, square, street, part, list, reds, chief, Paris",Ecology & environment,,Association,
+fr,yellow,1500,499,33.3,1,"jaune, maillot, classement, général, étape, vert, leader, conserve, jaunes, jour","yellow, jersey, classification, general, stage, green, leader, retains, yellows, day",named entity,,Occurence,
+fr,yellow,1500,499,33.3,2,"jaune, groupe, maillot, fleurs, pétales, secondes, doubles, km, arrivée, cm","yellow, group, jersey, flowers, petals, seconds, doubles, km, finish, cm",named entity,,Occurence,
+fr,yellow,1500,499,33.3,3,"jaune, jaunes, sud, taches, brun, orange, corps, également, pâle, zone","yellow, yellows, south, spots, brown, orange, body, also, pale, zone",physical description,,Occurence,
+fr,yellow,1500,499,33.3,4,"jaune, étoile, blanc, noir, fleuve, type, chine, fond, nom, spectral","yellow, star, white, black, river, type, China, background, name, spectral",Space,,Occurence,
+fr,yellow,1500,499,33.3,5,"carton, jaune, points, rouge, jaunes, point, bandes, or, famille, térébenthine","card, yellow, points, red, yellows, point, bands, gold, family, turpentine",named entity,,Occurence,
+fr,yellow,1500,499,33.3,6,"jaunes, gilets, mouvement, cartons, ordre, banc, écopé, française, suite, français","yellows, vests, movement, cards, order, bench, penalised, French, following, French",named entity,,Occurence,
+fr,yellow,1500,499,33.3,7,"jaunes, rouges, liste, cartons, base, points, match, minutes, fin, retrouve","yellows, reds, list, cards, base, points, match, minutes, end, finds",named entity,,Occurence,
+fr,yellow,1500,499,33.3,8,"jaunes, jaune, bleus, gilets, island, rouges, soutien, tête, stewart, guillaume","yellows, yellow, blues, vests, island, reds, support, head, Stewart, William",named entity,,Occurence,
+fr,yellow,1500,499,33.3,9,"jaune, rouge, couleurs, bleu, noir, vert, couleur, orange, clair, noire","yellow, red, colours, blue, black, green, colour, orange, light, black",Colour co-occurrence,,Occurence,
+fr,yellow,1500,499,33.3,10,"jaune, gilet, saint, jaunes, enceinte, pays, sociales, fossés, groupes, jean","yellow, vest, saint, yellows, enclosure, country, social, ditches, groups, Jean",Unknown,,unknown,
+fr,yellow,1500,499,33.3,11,"jaune, couleur, rose, rouge, forme, foncé, partie, face, vert, feuilles","yellow, colour, pink, red, form, dark, part, face, green, leaves",Colour co-occurrence,,Occurence,
+fr,yellow,1500,499,33.3,12,"jaune, thé, jaunes, rosier, place, ouest, paris, brigade, paul, années","yellow, tea, yellows, rose bush, place, west, Paris, brigade, Paul, years",Unknown,,unknown,
+fr,yellow,1500,499,33.3,13,"jaune, tour, possède, tête, pierre, peinte, ocre, victoire, ensuite, noir","yellow, tower, has, head, stone, painted, ochre, victory, then, black",Arts & entertainment,,Occurence,
+fr,yellow,1500,499,33.3,14,"gilets, jaunes, mouvement, france, manifestations, manifestants, emmanuel, macron, 2018, gouvernement","vests, yellows, movement, France, demonstrations, protesters, Emmanuel, Macron, 2018, government",Social Movement,,Association,
+fr,yellow,1500,499,33.3,15,"jaune, diamant, ligne, porte, petites, rivière, espèces, bord, nord, long","yellow, diamond, line, door, small, river, species, edge, north, long",Unknown,,unknown,
+fr,blue,1500,319,21.3,1,"bleu, ciel, oiseau, couleur, maillot, liz, naevus, couleurs, rouge, vert","blue, sky, bird, colour, jersey, Liz, naevus, colours, red, green",physical description,,Occurence,
+fr,blue,1500,319,21.3,2,"bleu, partie, bleus, diamant, grande, nord, également, marine, française, côté","blue, part, blues, diamond, large, north, also, navy, French, side",Conflict ,,Association,
+fr,blue,1500,319,21.3,3,"bleu, santal, fond, show, papier, femme, smackdown, fibres, musique, site","blue, sandalwood, background, show, paper, woman, SmackDown, fibres, music, site",Unknown,,unknown,
+fr,blue,1500,319,21.3,4,"bleue, bleu, pierre, théâtre, ville, lieu, œuvre, tête, amour, mont","blue, blue, stone, theatre, town, place, work, head, love, mount",Life experiences,,Association,
+fr,blue,1500,319,21.3,5,"bleue, bleu, rose, blanche, tableau, croix, espèces, or, réalisé, marc","blue, blue, pink, white, painting, cross, species, gold, directed, Marc",Colour co-occurrence,Arts & entertainment,Occurence,
+fr,blue,1500,319,21.3,6,"bleus, bleues, rouges, bleu, jaunes, match, pierres, drapeau, saison, épisode","blues, blues, reds, blue, yellows, match, stones, flag, season, episode",Colour co-occurrence,,Occurence,
+fr,blue,1500,319,21.3,7,"bleus, couleurs, yeux, verts, casques, tons, motifs, famille, œil, ensemble","blues, colours, eyes, greens, helmets, tones, motifs, family, eye, together",Arts & entertainment,,Occurence,
+fr,blue,1500,319,21.3,8,"bleue, bleus, maison, couleur, temps, cheveux, petite, saint, 2012, fille","blue, blues, house, colour, time, hair, small, saint, 2012, girl",physical description,,Occurence,
+fr,blue,1500,319,21.3,9,"bleues, bleus, équipe, 2018, bleue, ligne, compte, nuit, victoire, ans","blues, blues, team, 2018, blue, line, account, night, victory, years",Arts & entertainment,,Occurence,
+fr,blue,1500,319,21.3,10,"bleue, rouge, bleus, bleu, corps, jaune, verte, film, score, ranger","blue, red, blues, blue, body, yellow, green, film, score, ranger",Colour co-occurrence,,Occurence,
+fr,blue,1500,319,21.3,11,"pierre, bleue, façade, porte, briques, blanche, arc, chaussée, fenêtres, rez","stone, blue, façade, door, bricks, white, arch, roadway, windows, ground floor",physical description,,Occurence,
+fr,blue,1500,319,21.3,12,"bleu, france, the, type, blanc, étoiles, américaine, uniforme, saint, bleues","blue, France, the, type, white, stars, American, uniform, saint, blues",named entity,,Occurence,
+fr,blue,1500,319,21.3,13,"bleu, art, finale, parti, national, demi, noir, musée, grand, pays","blue, art, final, party, national, semi, black, museum, large, country",Arts & entertainment,,Occurence,
+fr,blue,1500,319,21.3,14,"bleue, lumière, bleu, album, blue, publié, onde, couleur, barbe, mélatonine","blue, light, blue, album, blue, published, wave, colour, beard, melatonin",Arts & entertainment,,Occurence,
+fr,blue,1500,319,21.3,15,"bleu, blanc, vert, rouge, jaune, noir, gris, foncé, couleur, clair","blue, white, green, red, yellow, black, grey, dark, colour, light",Colour co-occurrence,,Occurence,
+fr,brown,625,39,6.2,1,"marron, présente, clair, abdomen, forme, noir, lavis, teinte, robe, partie","brown, presents, light, abdomen, form, black, wash, tint, coat, part",Unknown,,unknown,
+fr,brown,625,39,6.2,2,"marrons, esclaves, nègres, nom, chiens, connu, marron, noirs, suspects, accusés","browns, slaves, negroes, name, dogs, known, brown, blacks, suspects, accused",Identity ,Power structures or hierarchies,Association,
+fr,brown,625,39,6.2,3,"marron, orange, foncé, écailles, également, couleur, lieu, fibres, taches, petits","brown, orange, dark, scales, also, colour, place, fibres, spots, small",Ecology & environment,,Occurence,
+fr,brown,625,39,6.2,4,"marron, vert, jaune, couleur, couleurs, bleu, blanc, rouge, fleurs, rose","brown, green, yellow, colour, colours, blue, white, red, flowers, pink",Colour co-occurrence,,Occurence,
+fr,brown,625,39,6.2,5,"ligne, marron, koltsevaïa, moscou, située, central, métro, station, circulaire, district","line, brown, Koltsevaya, Moscow, located, central, metro, station, circular, district",named entity,,Occurence,
+fr,brown,625,39,6.2,6,"marron, ceinture, blancs, appelé, espèce, pasteur, famille, henri, paul, tisserin","brown, belt, whites, called, species, Pasteur, family, Henri, Paul, weaver",named entity,,Occurence,
+fr,brown,625,39,6.2,7,"marron, marrons, cuir, chef, bleu, édition, existe, noir, scène, utilise","brown, browns, leather, chief, blue, edition, exists, black, scene, uses",named entity,,Occurence,
+fr,brown,625,39,6.2,8,"marron, uniquement, mode, vie, différence, né, sorte, loin, domestique, génétique","brown, only, fashion/way, life, difference, born, kind, far, domestic, genetic",Life experiences,,Occurence,
+fr,brown,625,39,6.2,9,"marron, couleur, foncé, rouge, or, rougeâtre, noirs, long, couleurs, noir","brown, colour, dark, red, gold, reddish, blacks, long, colours, black",Colour co-occurrence,,Occurence,
+fr,brown,625,39,6.2,10,"marron, sauvage, semi, marronnage, retourné, phénomène, âne, bois, cochon, pattes","brown, wild, semi, marronage, returned, phenomenon, donkey, wood, pig, legs",Ecology & environment,,Occurence,
+fr,brown,625,39,6.2,11,"marron, couleur, blanc, corps, jaune, camomille, possède, petit, blanche, roux","brown, colour, white, body, yellow, chamomile, has, small, white, russet",physical description,,Occurence,
+fr,brown,625,39,6.2,12,"marron, yeux, ailes, bleus, foncé, couleur, noir, cheveux, enfants, fond","brown, eyes, wings, blue, dark, colour, black, hair, children, background",physical description,,Occurence,
+fr,brown,625,39,6.2,13,"marron, foncé, livrée, clair, brun, saint, ferté, yvoy, tesselles, fourrure","brown, dark, livery, light, brown, saint, Ferté, Yvoy, tesserae, fur",Ecology & environment,,Occurence,
+fr,brown,625,39,6.2,14,"marron, ligne, circulaire, niveau, point, sol, stations, établie, souterrain, station","brown, line, circular, level, point, ground, stations, established, underground, station",named entity,,Occurence,
+fr,brown,625,39,6.2,15,"marron, clair, gris, pâle, femelle, rouge, couleur, feu, gorge, ouest","brown, light, grey, pale, female, red, colour, fire, throat, west",Colour co-occurrence,,Occurence,
+fr,orange,1500,267,17.8,1,"orange, bowl, the, joueur, syracuse, partie, 2004, гэ, équipe, français","orange, bowl, the, player, Syracuse, part/match, 2004, [гэ], team, French",named entity,,Occurence,
+fr,orange,1500,267,17.8,2,"orange, ordre, nassau, chevalier, officier, mécanique, jaunes, feuilles, film, 2014","orange, order, Nassau, knight, officer, mechanical, yellows, leaves, film, 2014",named entity,,Occurence,
+fr,orange,1500,267,17.8,3,"orange, prince, guerre, guillaume, maillot, général, nommé, devient, lord, service","orange, prince, war, William, jersey, general, named, becomes, lord, service",named entity,,Occurence,
+fr,orange,1500,267,17.8,4,"orange, états, unis, série, comté, sud, texas, ligne, place, new","orange, states, united, series, county, south, Texas, line, place, new",named entity,,Occurence,
+fr,orange,1500,267,17.8,5,"orange, blue, oranges, nature, morte, festival, société, jeux, fruits, ancien","orange, blue, oranges, nature, dead, festival, society, games, fruits, old",Arts & entertainment,,Occurence,
+fr,orange,1500,267,17.8,6,"orange, prix, chair, douce, livre, new, jersey, patate, nord, ailes","orange, prize, flesh, sweet, book, new, jersey, potato, north, wings",Food & drink,,Occurence,
+fr,orange,1500,267,17.8,7,"orange, comté, new, naissance, york, 2011, vaucluse, point, théâtre, petite","Orange, Comté, New, Birth, York, 2011, Vaucluse, Point, Theatre, Petite",named entity,,Occurence,
+fr,orange,1500,267,17.8,8,"orange, couleurs, jus, nouvelle, également, match, béton, briques, perd, associé","orange, colours, juice, new, also, match, concrete, bricks, loses, associated",Food & drink,,Occurence,
+fr,orange,1500,267,17.8,9,"orange, gris, pâle, taches, scène, bord, présente, adaptation, lumière, of","orange, grey, pale, spots, scene, edge, presents, adaptation, light, of",physical description,,Occurence,
+fr,orange,1500,267,17.8,10,"orange, grand, 2018, fin, décembre, cassidy, rencontre, troupes, jours, luxembourg","orange, large, 2018, end, December, Cassidy, meeting, troops, days, Luxembourg",named entity,,Occurence,
+fr,orange,1500,267,17.8,11,"orange, oranges, californie, prince, comté, douces, patates, nom, suite, parti","orange, oranges, California, prince, county, sweet, potatoes, name, following, party",Food & drink,,Occurence,
+fr,orange,1500,267,17.8,12,"orange, rouge, jaune, couleur, vert, blanc, noir, bleu, couleurs, foncé","orange, red, yellow, colour, green, white, black, blue, colours, dark",Colour co-occurrence,,Occurence,
+fr,orange,1500,267,17.8,13,"orange, france, studio, mort, espagne, né, 2019, opérateur, cinéma, production","orange, France, studio, death, Spain, born, 2019, operator, cinema, production",Arts & entertainment,,Occurence,
+fr,orange,1500,267,17.8,14,"orange, france, vigilance, canicule, départements, météo, placés, juillet, the, black","orange, France, vigilance, heatwave, departments, weather, placed, July, tea, black",Warnings,Ecology & environment,Association,
+fr,orange,1500,267,17.8,15,"orange, guillaume, nassau, iii, ii, prince, roi, maison, jacques, pays","orange, Guillaume, Nassau, III, II, prince, king, house, Jacques, country",Power structures or hierarchies,,Association,
+fr,pink,1500,407,27.1,1,"rose, ars, issue, queen, dowager, moderne, croisement, avram, groupe, états","pink, Ars, issue/descent, queen, dowager, modern, cross(breed), Avram, group, states",Power structures or hierarchies,,Association,
+fr,pink,1500,407,27.1,2,"roses, rose, rosa, rosier, histoire, cultivar, époque, français, obtenu, variétés","roses, rose, Rosa, rose bush, history, cultivar, era, French, obtained, varieties",Ecology & environment,,Occurence,
+fr,pink,1500,407,27.1,3,"roses, fils, maison, rosiers, fille, rouges, poulsen, épouse, mort, obtenteur","roses, sons, house, rose bushes, daughter, reds, Poulsen, spouse, death, breeder",Life experiences,,Occurence,
+fr,pink,1500,407,27.1,4,"rose, monde, roses, favorite, variété, anciennes, france, old, ancienne, 2012","rose, world, roses, favourite, variety, old ones, France, old, ancient, 2012",physical description,,Occurence,
+fr,pink,1500,407,27.1,5,"roses, jardins, page, marie, 2002, journal, thérèse, haudebourg, hachette, jardin","roses, gardens, page, Marie, 2002, journal, Thérèse, Haudebourg, Hachette, garden",named entity,,Occurence,
+fr,pink,1500,407,27.1,6,"roses, roseraie, admirer, or, haÿ, val, marne, noms, portant, normandie","roses, rose garden, admire, gold, Haÿ, Val, Marne, names, bearing, Normandy",Unknown,,unknown,
+fr,pink,1500,407,27.1,7,"rose, fleurs, pétales, doubles, couleur, parfumées, grandes, garden, forme, pâle","rose, flowers, petals, doubles, colour, fragrant, large, garden, form, pale",Ecology & environment,,Occurence,
+fr,pink,1500,407,27.1,8,"rose, roses, prix, of, new, york, paris, belle, david, années","rose, roses, prize, of, New, York, Paris, beautiful, David, years",Arts & entertainment,,Occurence,
+fr,pink,1500,407,27.1,9,"rose, couleur, rouge, thé, hybride, madame, jaune, rosier, place, foncé","rose, colour, red, tea, hybrid, Madame, yellow, rose bush, place, dark",Colour co-occurrence,,Occurence,
+fr,pink,1500,407,27.1,10,"roses, anciennes, rose, 2016, nouvelle, parfum, françois, joyaux, pétales, cm","old ones, ancient, rose, 2016, new, perfume, François, jewels, petals, cm",Arts & entertainment,,Occurence,
+fr,pink,1500,407,27.1,11,"rose, society, show, britton, 1999, bleu, également, titre, 2000, maillot","rose, society, show, Britton, 1999, blue, also, title, 2000, jersey",named entity,,Occurence,
+fr,pink,1500,407,27.1,12,"the, of, rose, roses, and, charles, collection, ispahan, ritson, quest","the, of, rose, roses, and, Charles, collection, Ispahan, Ritson, quest",Unknown,,unknown,
+fr,pink,1500,407,27.1,13,"rose, marie, nom, abra, paul, née, princesse, pays, série, monaco","rose, Marie, name, Abra, Paul, born, princess, country, series, Monaco",Power structures or hierarchies,,Association,
+fr,pink,1500,407,27.1,14,"rose, fleurs, bouquets, roses, fleurissent, blanches, 10, fort, diamètre, petites","rose, flowers, bouquets, roses, bloom, whites, 10, strong, diameter, small",Ecology & environment,,Occurence,
+fr,pink,1500,407,27.1,15,"rose, blanche, film, william, the, mcgredy, roses, nom, américain, samuel","rose, white, film, William, the, McGredy, roses, name, American, Samuel",Ecology & environment,,Occurence,
+fr,purple,1500,504,33.6,1,"violet, the, salon, paris, français, and, épouse, 1971, violettes, jean","purple, the, salon, Paris, French, and, spouse, 1971, violets, Jean",Arts & entertainment,,Occurence,
+fr,purple,1500,504,33.6,2,"violet, née, fille, groupe, pierre, violette, blanche, famille, père, douce","purple, born, daughter, group, Pierre, Violette, white, family, father, sweet/soft",named entity,,Occurence,
+fr,purple,1500,504,33.6,3,"violets, club, rouge, yeux, cheveux, édition, roses, ex, couleurs, rouges","purples, club, red, eyes, hair, edition, roses, ex, colours, reds",Colour co-occurrence,,Occurence,
+fr,purple,1500,504,33.6,4,"violette, ligne, violet, nom, devient, taches, chanterelle, américaine, fleur, genre","violet, line, purple, name, becomes, spots, chanterelle, American, flower, genus",Unknown,,unknown,
+fr,purple,1500,504,33.6,5,"violette, jean, vf, vincent, leduc, pierre, ac, années, paul, andré","Violette, Jean, VF, Vincent, Leduc, Pierre, AC, years, Paul, André",named entity,,Occurence,
+fr,purple,1500,504,33.6,6,"violet, bleu, rouge, jaune, vert, couleurs, couleur, blanc, orange, noir","purple, blue, red, yellow, green, colours, colour, white, orange, black",Colour co-occurrence,,Occurence,
+fr,purple,1500,504,33.6,7,"violettes, violette, saint, or, bois, film, martin, œuvre, robe, année","violets, violet, saint, gold, wood, film, Martin, work, robe, year",Arts & entertainment,,Occurence,
+fr,purple,1500,504,33.6,8,"violet, forme, violette, présente, femme, émile, 2014, édouard, série, rang","purple, form, violet, presents, woman, Émile, 2014, Édouard, series, rank",Unknown,,unknown,
+fr,purple,1500,504,33.6,9,"violette, brigade, morts, paul, gustave, monument, bleue, adrien, mort, pairet","Violette, brigade, dead, Paul, Gustave, monument, blue, Adrien, death, Pairet",named entity,,Occurence,
+fr,purple,1500,504,33.6,10,"violette, couleur, équipe, parfum, donne, cm, violettes, co, 2001, min","violet, colour, team, perfume, gives, cm, violets, co, 2001, min",Unknown,,Occurence,
+fr,purple,1500,504,33.6,11,"saison, violet, violette, rose, épisode, couleur, grande, porte, peau, apparence","season, purple, violet, pink, episode, colour, large, door, skin, appearance",Colour co-occurrence,,Occurence,
+fr,purple,1500,504,33.6,12,"violet, chachki, rose, of, vie, rouge, barungi, âge, ciel, généralement","violet, Chachki, pink, of, life, red, Barungi, age, sky, generally",named entity,Arts & entertainment,Occurence,
+fr,purple,1500,504,33.6,13,"violet, violette, onde, ultra, image, noire, amas, radio, cordery, radiotélescopes","violet, purple, wave, ultra, image, black, cluster, radio, Cordery, radio telescopes",Space,,Occurence,
+fr,purple,1500,504,33.6,14,"fleurs, violettes, violette, feuilles, violet, long, rue, couleur, pétales, blanches","flowers, violets, violet, leaves, purple, long, street, colour, petals, white",Ecology & environment,,Occurence,
+fr,purple,1500,504,33.6,15,"violette, métrage, terre, lumière, ailhaud, court, 2013, publié, éditions, classement","Violette, film/footage, earth, light, Ailhaud, short, 2013, published, editions, ranking",Arts & entertainment,,Occurence,
+fr,gray,1500,175,11.7,1,"gris, blanc, tour, lanterne, peinte, porte, noir, rouges, rouge, grise","grey, white, tower, lantern, painted, door, black, reds, red, grey",physical description,,Occurence,
+fr,gray,1500,175,11.7,2,"gris, vert, forme, couleur, brun, compagnie, jaunâtre, feuilles, foncé, blanc","grey, green, form, colour, brown, company, yellowish, leaves, dark, white",Colour co-occurrence,,Occurence,
+fr,gray,1500,175,11.7,3,"gris, bleu, jaune, pâle, cheveux, fond, blancs, rouge, épisode, toile","grey, blue, yellow, pale, hair, background, whites, red, episode, canvas",Colour co-occurrence,Arts & entertainment,Occurence,
+fr,gray,1500,175,11.7,4,"gris, couleur, blanche, loup, grise, tête, jeune, bleue, possède, teinte","grey, colour, white, wolf, grey, head, young, blue, has, tint",Colour co-occurrence,,Occurence,
+fr,gray,1500,175,11.7,5,"gris, couleur, partie, brun, présente, écorce, supérieure, foncé, fond, clair","grey, colour, part, brown, presents, bark, upper, dark, background, light",Colour co-occurrence,,Occurence,
+fr,gray,1500,175,11.7,6,"gris, pierre, cap, nez, bâtiment, façade, écureuil, autour, granit, parties","grey, stone, cape, nose, building, façade, squirrel, around, granite, parts",Ecology & environment,,Occurence,
+fr,gray,1500,175,11.7,7,"gris, espèces, renard, amérique, roux, гэ, portrait, nature, femme, loup","grey, species, fox, America, russet, [гэ], portrait, nature, woman, wolf",Ecology & environment,,Occurence,
+fr,gray,1500,175,11.7,8,"robe, grise, stud, book, étalon, cheval, inscrit, gris, saut, obstacles","coat, grey, stud, book, stallion, horse, registered, grey, jump, obstacles",Ecology & environment,,Occurence,
+fr,gray,1500,175,11.7,9,"gris, souris, noire, encre, lavis, brune, pierre, brun, plume, jean","grey, mouse, black, ink, wash, brown, stone, brown, quill/feather, Jean",Colour co-occurrence,,Occurence,
+fr,gray,1500,175,11.7,10,"grise, gris, petit, maison, couleur, calcaire, grand, grises, île, points","grey, grey, small, house, colour, limestone, large, greys, island, points",physical description,,Occurence,
+fr,gray,1500,175,11.7,11,"gris, noir, couleurs, juan, ailes, blanc, foncé, clair, orange, rouge","grey, black, colours, Juan, wings, white, dark, light, orange, red",Colour co-occurrence,,Occurence,
+fr,gray,1500,175,11.7,12,"gris, marbre, rouge, blanc, années, noir, ans, bleu, rose, motifs","grey, marble, red, white, years, black, years, blue, pink, motifs",Colour co-occurrence,,Occurence,
+fr,gray,1500,175,11.7,13,"grise, homme, couleur, matière, or, gris, éminence, pourriture, titre, réalisé","grey, man, colour, matter, gold, grey, eminence, rot, title, directed",Colour co-occurrence,,Occurence,
+fr,gray,1500,175,11.7,14,"gris, ciel, zones, tons, grises, robes, partir, sol, musique, couche","grey, sky, zones, tones, greys, robes, from, ground, music, layer",Arts & entertainment,,Occurence,
+fr,gray,1500,175,11.7,15,"grises, grise, robe, gris, espèce, généralement, baie, bai, sud, famille","greys, grey, coat, grey, species, generally, bay, bay, south, family",Ecology & environment,,Occurence,
+es,black,1500,238,15.9,1,"negro, negra, tierra, elementos, movimiento, indígenas, mujeres, guerra, estadounidenses, negros","black, black, earth/land, elements, movement, indigenous, women, war, Americans, blacks",Identity ,,Association,
+es,black,1500,238,15.9,2,"negro, color, rojo, colores, blanco, verde, azul, amarillo, mercado, bandera","black, colour, red, colours, white, green, blue, yellow, market, flag",Colour co-occurrence,,Occurence,
+es,black,1500,238,15.9,3,"negros, agujeros, blancos, mayoría, negra, región, equivale, carnaval, personas, unidos","blacks, holes, whites, majority, black, region, equals, carnival, people, united",Identity ,,Association,
+es,black,1500,238,15.9,4,"negro, mar, chocolate, ciudad, sur, norte, agujero, europa, cacao, mediterráneo","black, sea, chocolate, city, south, north, hole, Europe, cacao, Mediterranean",named entity,,Occurence,
+es,black,1500,238,15.9,5,"negra, blanca, unidos, raza, proceso, isla, sangre, magia, febrero, redonda","black, white, united, race, process, island, blood, magic, February, round",Identity ,,Association,
+es,black,1500,238,15.9,6,"negro, blanco, agujero, color, españa, horizonte, josé, schwarzschild, sucesos, fotografía","black, white, hole, colour, Spain, horizon, José, Schwarzschild, events, photography",Space,,Occurence,
+es,black,1500,238,15.9,7,"negra, población, nacional, peste, parque, universidad, europa, natural, años, país","black, population, national, plague, park, university, Europe, natural, years, country",Death ,,Association,
+es,black,1500,238,15.9,8,"negros, esclavos, blancos, grupos, agujeros, cuenca, estrellas, puntos, tezcatlipoca, años","blacks, slaves, whites, groups, holes, basin, stars, points, Tezcatlipoca, years",Belief and ritual,,Association,
+es,black,1500,238,15.9,9,"negro, negra, 000, cinturón, the, café, temperatura, aves, águila, especies","black, black, 000, belt, the, coffee, temperature, birds, eagle, species",named entity,,Occurence,
+es,black,1500,238,15.9,10,"negro, cuerpo, radiación, color, luz, película, forma, cine, ley, planck","black, body, radiation, colour, light, film, form, cinema, law, Planck",Arts & entertainment,,Occurence,
+es,black,1500,238,15.9,11,"río, negra, negro, música, ríos, uruguay, provincia, san, laguna, peña","river, black, black, music, rivers, Uruguay, province, San, lagoon, Peña",named entity,,Occurence,
+es,black,1500,238,15.9,12,"negra, marea, arroz, costa, francia, tinta, prestige, cabeza, diciembre, noviembre","black, tide, rice, coast, France, ink, Prestige, head, December, November",named entity,,Occurence,
+es,black,1500,238,15.9,13,"negro, negros, blancos, año, blanco, colores, grises, áfrica, mestizos, imperio","black, blacks, whites, year, white, colours, greys, Africa, mestizos, empire",Identity ,,Association,
+es,black,1500,238,15.9,14,"negro, mar, río, zona, km, valle, hombres, mayo, fusión, norte","black, sea, river, zone, km, valley, men, May, fusion, north",named entity,,Occurence,
+es,black,1500,238,15.9,15,"negras, negro, blancas, piezas, color, nombre, número, jugador, base, arte","blacks, black, whites, pieces, colour, name, number, player, base, art",Arts & entertainment,,Occurence,
+es,white,1500,409,27.3,1,"blanco, español, grupo, juan, paso, pan, rayos, electrones, richard, antonio","white, Spanish, group, Juan, step, bread, rays, electrons, Richard, Antonio",Unknown,,unknown,
+es,white,1500,409,27.3,2,"blanco, gobierno, político, español, futbolista, luis, eduardo, pedro, 1973, banda","white, government, political, Spanish, footballer, Luis, Eduardo, Pedro, 1973, band",named entity,,Occurence,
+es,white,1500,409,27.3,3,"blanco, color, plata, negro, metal, nombre, representa, rey, imagen, rojo","white, colour, silver, black, metal, name, represents, king, image, red",Colour co-occurrence,,Occurence,
+es,white,1500,409,27.3,4,"blancos, unidos, blanco, mayoría, blanca, células, hombres, sistema, cuerpo, número","whites, united, white, majority, white, cells, men, system, body, number",Life experiences,,Occurence,
+es,white,1500,409,27.3,5,"blanca, enana, actriz, estrellas, blancas, estrella, enanas, masa, caso, tipo","white, dwarf, actress, stars, whites, star, dwarfs, mass, case, type",Space,,Occurence,
+es,white,1500,409,27.3,6,"blanco, negro, color, grado, película, josé, tezcatlipoca, grises, frente, televisión","white, black, colour, grade, film, José, Tezcatlipoca, greys, front, television",Arts & entertainment,,Occurence,
+es,white,1500,409,27.3,7,"blanco, blanca, forma, cerdo, arietis, méxico, jamón, costa, frecuencia, monte","white, white, form, pig, Arietis, Mexico, ham, coast, frequency, mount",Food & drink,,Occurence,
+es,white,1500,409,27.3,8,"blanca, san, blancos, blanco, manuel, encalada, roja, población, república, francisco","white, San, whites, white, Manuel, whitewashed, red, population, republic, Francisco",Politics & ideology,,Occurence,
+es,white,1500,409,27.3,9,"blanco, amarillo, país, blancos, 000, obra, libres, orden, descendientes, venezolano","white, yellow, country, whites, 000, work, free, order, descendants, Venezuelan",Identity ,,Association,
+es,white,1500,409,27.3,10,"blancos, negros, blanco, azúcar, río, mestizos, grupos, blanca, sur, rosa","whites, blacks, white, sugar, river, mestizos, groups, white, south, pink",Identity ,,Association,
+es,white,1500,409,27.3,11,"blanca, sustancia, blancas, gris, negras, piezas, cordillera, color, jugador, núcleos","white, matter, whites, grey, blacks, pieces, mountain range, colour, player, nuclei",Unknown,,unknown,
+es,white,1500,409,27.3,12,"blanco, azul, rojo, colores, bandera, verde, color, escudo, cantidad, brillante","white, blue, red, colours, flag, green, colour, shield, quantity, bright",Colour co-occurrence,,Occurence,
+es,white,1500,409,27.3,13,"blanca, casa, luz, presidente, negra, espectro, armas, forma, andreu, prisma","white, house, light, president, black, spectrum, weapons, form, Andreu, prism",named entity,,Occurence,
+es,white,1500,409,27.3,14,"blancas, blanca, ciudad, española, bahía, arroz, blanco, argentina, langostino, rojas","whites, white, city, Spanish, bay, rice, white, Argentina, langoustine, reds",Food & drink,,Occurence,
+es,white,1500,409,27.3,15,"blanco, blanca, años, the, miguel, ángel, chocolate, eta, término, pueblo","white, white, years, the, Miguel, Ángel, chocolate, ETA, term, town",Unknown,,unknown,
+es,red,1500,469,31.3,1,"roja, cruz, luz, internacional, ciudad, años, onda, azul, longitudes, energía","red, cross, light, international, city, years, wave, blue, wavelengths, energy",Conflict ,Space,Association,
+es,red,1500,469,31.3,2,"rojo, ejército, guerra, soviética, unión, mundial, rojas, organización, manuel, paraguayo","red, army, war, Soviet, union, world, reds, organisation, Manuel, Paraguayan",Conflict ,,Association,
+es,red,1500,469,31.3,3,"rojo, mar, mediterráneo, canal, norte, río, sur, nilo, egipto, golfo","red, sea, Mediterranean, canal, north, river, south, Nile, Egypt, gulf",named entity,,Occurence,
+es,red,1500,469,31.3,4,"rojas, futbolista, español, josé, mancha, chileno, político, antonio, mexicano, juan","reds, footballer, Spanish, José, spot/La Mancha, Chilean, political, Antonio, Mexican, Juan",named entity,,Occurence,
+es,red,1500,469,31.3,5,"nombre, cantidad, brillante, bandera, alto, roja, fútbol, referencia, actual, chile","name, quantity, bright, flag, high, red, football, reference, current, Chile",named entity,,Occurence,
+es,red,1500,469,31.3,6,"rojas, francisco, desierto, juan, luis, rojo, corrimiento, costa, alemanas, león","reds, Francisco, desert, Juan, Luis, red, shift, coast, German, León",named entity,,Occurence,
+es,red,1500,469,31.3,7,"rojo, ejército, república, alemania, rojas, banda, febrero, temperatura, septiembre, facción","red, army, republic, Germany, reds, band, February, temperature, September, faction",Conflict ,,Association,
+es,red,1500,469,31.3,8,"rojas, estrellas, gustavo, pinilla, grupo, enanas, militar, flores, agosto, batalla","reds, stars, Gustavo, Pinilla, group, dwarfs, military, flowers, August, battle",Unknown,,unknown,
+es,red,1500,469,31.3,9,"rojos, glóbulos, millones, sangre, hemoglobina, piel, amarillos, células, tamaño, cadenas","red blood cells, blood cells, millions, blood, haemoglobin, skin, yellow blood cells, cells, size, chains",named entity,,Occurence,
+es,red,1500,469,31.3,10,"rojo, azul, color, púrpura, colores, superior, construcción, obra, espacio, verde","red, blue, colour, purple, colours, upper, construction, work, space, green",Colour co-occurrence,,Occurence,
+es,red,1500,469,31.3,11,"rojo, negro, color, azul, colores, especies, blanco, verde, fondo, amarillo","red, black, colour, blue, colours, species, white, green, background, yellow",Colour co-occurrence,,Occurence,
+es,red,1500,469,31.3,12,"rojo, color, azul, verde, oscuro, púrpura, sangre, violeta, llamado, onda","red, colour, blue, green, dark, purple, blood, violet, called, wave",Colour co-occurrence,,Occurence,
+es,red,1500,469,31.3,13,"algas, rojo, colores, azul, rojas, amarillo, verde, blanco, plantas, verdes","algae, red, colours, blue, reds, yellow, green, white, plants, greens",Colour co-occurrence,,Occurence,
+es,red,1500,469,31.3,14,"rojo, años, planeta, conocido, marte, vida, pigmento, hongos, diciembre, escudo","red, years, planet, known, Mars, life, pigment, fungi, December, shield",Space,,Occurence,
+es,red,1500,469,31.3,15,"roja, bandera, estrella, gigante, blanca, sol, rojos, tierra, núcleo, alga","red, flag, star, giant, white, sun, reds, earth, core, algae",Space,,Occurence,
+es,green,1500,367,24.5,1,"luz, verde, pisco, oro, cian, mosto, oscuro, clorofila, pigmento, color","light, green, pisco, gold, cyan, must(mosto), dark, chlorophyll, pigment, colour",Food & drink,Colour co-occurrence,Occurence,
+es,green,1500,367,24.5,2,"verde, energía, color, planta, forma, países, tomate, chile, miembros, marinas","green, energy, colour, plant, form, countries, tomato, chilli, members, marine",Ecology & environment,,Occurence,
+es,green,1500,367,24.5,3,"verde, habitante, superior, metros, verdes, espacio, isla, cuadrados, inferior, público","green, inhabitant, upper, metres, greens, space, island, square (metres), lower, public",Ecology & environment,,Occurence,
+es,green,1500,367,24.5,4,"verdes, ciudad, zonas, espacios, parque, parques, áreas, jardines, urbano, centro","greens, city, zones, spaces, park, parks, areas, gardens, urban, centre",Ecology & environment,,Occurence,
+es,green,1500,367,24.5,5,"verde, cabo, áfrica, portugués, nacional, islas, país, escudo, producción, países","green, cape, Africa, Portuguese, national, islands, country, shield, production, countries",named entity,,Occurence,
+es,green,1500,367,24.5,6,"verde, cabo, guinea, especies, santo, brasil, portuguesa, africano, río, independencia","green, cape, Guinea, species, Santo, Brazil, Portuguese, African, river, independence",named entity,,Occurence,
+es,green,1500,367,24.5,7,"verde, color, azul, rojo, amarillo, colores, negro, blanco, naranja, violeta","green, colour, blue, red, yellow, colours, black, white, orange, violet",Colour co-occurrence,,Occurence,
+es,green,1500,367,24.5,8,"algas, verdes, plantas, rojas, terrestres, grupo, plantae, grupos, cloroplastos, multicelulares","algae, greens, plants, reds, terrestrial, group, Plantae, groups, chloroplasts, multicellular",Ecology & environment,,Occurence,
+es,green,1500,367,24.5,9,"verde, casa, ciudad, zona, color, obras, novelas, fruto, 25, paz","green, house, city, zone, colour, works, novels, fruit, 25, peace",Unknown,,unknown,
+es,green,1500,367,24.5,10,"hojas, verdes, bacterias, azufre, cm, verde, fotosíntesis, green, europa, especie","leaves, greens, bacteria, sulphur, cm, green, photosynthesis, green, Europe, species",Ecology & environment,,Occurence,
+es,green,1500,367,24.5,11,"verde, tortuga, san, marcha, importantes, plátano, marruecos, comunes, español, 1975","green, turtle, San, march, important, banana, Morocco, common, Spanish, 1975",Unknown,,unknown,
+es,green,1500,367,24.5,12,"verde, tierra, nombre, blanca, campo, bandera, zona, ii, referencia, posee","green, earth, name, white, field, flag, zone, II, reference, possesses",Identity ,,Occurence,
+es,green,1500,367,24.5,13,"verde, partido, partidos, años, unión, sur, obra, gobierno, cabo, cerro","green, party, parties, years, union, south, work, government, cape, hill",Politics & ideology,,Association,
+es,green,1500,367,24.5,14,"verde, semillas, monte, verdes, plantas, amarillas, puente, síntesis, generación, plan","green, seeds, mount, greens, plants, yellow, bridge, synthesis, generation, plan",Ecology & environment,,Occurence,
+es,green,1500,367,24.5,15,"verdes, azules, ojos, flores, proceso, forman, grises, tonos, diamantes, agente","greens, blues, eyes, flowers, process, form, greys, tones, diamonds, agent",Colour co-occurrence,,Occurence,
+es,yellow,1500,74,4.9,1,"amarillo, mar, china, río, norte, sur, km, oeste, centro, corea","yellow, sea, China, river, north, south, km, west, centre, Korea",named entity,,Occurence,
+es,yellow,1500,74,4.9,2,"amarillas, amarilla, forma, ciudad, fiebre, sistema, estrellas, papel, población, transmisión","yellows, yellow, form, city, fever, system, stars, paper, population, transmission",Warnings,,Association,
+es,yellow,1500,74,4.9,3,"amarilla, hierba, flor, común, tierra, 000, taxis, san, amarillo, blanca","yellow, grass, flower, common, earth, 000, taxis, San, yellow, white",Ecology & environment,,Occurence,
+es,yellow,1500,74,4.9,4,"amarillo, color, rojas, amarilla, pálido, roja, dorado, naranja, bandera, amarillas","yellow, colour, reds, yellow, pale, red, golden, orange, flag, yellows",Colour co-occurrence,,Occurence,
+es,yellow,1500,74,4.9,5,"sol, fondo, blancas, amarilla, amarillo, papa, franja, mm, cuyo, flores","sun, background, whites, yellow, yellow, potato, stripe, mm, whose, flowers",Ecology & environment,,Occurence,
+es,yellow,1500,74,4.9,6,"luz, amarillo, azul, colores, maíz, mezcla, amarilla, verde, blanco, blanca","light, yellow, blue, colours, maize, mixture, yellow, green, white, white",Colour co-occurrence,,Occurence,
+es,yellow,1500,74,4.9,7,"amarilla, estrella, magnitud, enana, tipo, blanco, años, gigante, sol, luz","yellow, star, magnitude, dwarf, type, white, years, giant, sun, light",Space,,Occurence,
+es,yellow,1500,74,4.9,8,"amarillo, azul, primarios, amarilla, colores, magenta, supergigante, cian, camiseta, pigmentos","yellow, blue, primary, yellow, colours, magenta, supergiant, cyan, jersey, pigments",Colour co-occurrence,,Occurence,
+es,yellow,1500,74,4.9,9,"azul, amarillo, rojo, verde, colores, bandera, color, franjas, semillas, superior","blue, yellow, red, green, colours, flag, colour, stripes, seeds, upper",Colour co-occurrence,,Occurence,
+es,yellow,1500,74,4.9,10,"amarilla, línea, fiebre, amarillo, estambres, volcán, mosquito, pequeñas, anteras, amarillas","yellow, line, fever, yellow, stamens, volcano, mosquito, small, anthers, yellows",Warnings,,Association,
+es,yellow,1500,74,4.9,11,"amarillo, color, verde, rojo, negro, colores, blanco, azul, naranja, marrón","yellow, colour, green, red, black, colours, white, blue, orange, brown",Colour co-occurrence,,Occurence,
+es,yellow,1500,74,4.9,12,"amarillo, flores, color, bandera, amarillas, escudo, magenta, cian, 100, centro","yellow, flowers, colour, flag, yellows, shield, magenta, cyan, 100, centre",Colour co-occurrence,,Occurence,
+es,yellow,1500,74,4.9,13,"amarillos, amarillo, rojos, maillot, etapa, verdes, ojos, blancos, negros, colores","yellows, yellow, reds, jersey, stage, greens, eyes, whites, blacks, colours",Arts & entertainment,Colour co-occurrence,Occurence,
+es,yellow,1500,74,4.9,14,"amarilla, fiebre, amarillo, cm, 10, región, forma, banda, ligeramente, hojas","yellow, fever, yellow, cm, 10, region, form, band, slightly, leaves",Warnings,,Association,
+es,yellow,1500,74,4.9,15,"amarillo, oro, representa, blanco, colores, negro, simboliza, rojo, 11, formas","yellow, gold, represents, white, colours, black, symbolises, red, 11, forms",Colour co-occurrence,,Occurence,
+es,blue,1500,271,18.1,1,"azul, color, rojo, púrpura, colores, violeta, oscuro, sistema, espacio, verde","blue, colour, red, purple, colours, violet, dark, system, space, green",Colour co-occurrence,,Occurence,
+es,blue,1500,271,18.1,2,"azules, colores, rojos, blancas, verdes, producen, blancos, tonos, diferencia, amarillos","blues, colours, reds, whites, greens, produce, whites, tones, difference, yellows",Colour co-occurrence,,Occurence,
+es,blue,1500,271,18.1,3,"azul, nilo, río, línea, sur, norte, zona, isla, ríos, división","blue, Nile, river, line, south, north, zone, island, rivers, division",named entity,,Occurence,
+es,blue,1500,271,18.1,4,"azul, costa, época, tierra, picasso, ballena, especies, parís, efecto, luz","blue, coast, era/period, earth, Picasso, whale, species, Paris, effect, light",Arts & entertainment,,Association,
+es,blue,1500,271,18.1,5,"azul, cielo, blanca, nacional, museo, centro, casa, ciudad, representa, bandera","blue, sky, white, national, museum, centre, house, city, represents, flag",physical description,,Occurence,
+es,blue,1500,271,18.1,6,"azul, luz, roja, onda, playas, longitudes, blanca, lino, maíz, bandera","blue, light, red, wave, beaches, wavelengths, white, linen/flax, maize, flag",Space,,Occurence,
+es,blue,1500,271,18.1,7,"azul, bandera, blanco, rojo, franja, estrella, franjas, superior, fondo, escudo","blue, flag, white, red, stripe, star, stripes, upper, background, shield",named entity,,Occurence,
+es,blue,1500,271,18.1,8,"azul, cruz, ojos, azules, división, campeón, agua, méxico, fútbol, título","blue, cross, eyes, blues, division, champion, water, Mexico, football, title",named entity,,Occurence,
+es,blue,1500,271,18.1,9,"azul, común, mezquita, ángel, danubio, tono, película, obra, abril, estudio","blue, common, mosque, angel, Danube, tone, film, work, April, studio",Unknown,,unknown,
+es,blue,1500,271,18.1,10,"azul, región, estilo, colores, rojo, espectro, gris, grupos, bandas, visible","blue, region, style, colours, red, spectrum, grey, groups, bands, visible",Colour co-occurrence,Space,Occurence,
+es,blue,1500,271,18.1,11,"azules, azul, estrellas, año, galaxias, mayoría, formación, comenzó, venezuela, brillantes","blues, blue, stars, year, galaxies, majority, formation, began, Venezuela, bright",Space,,Occurence,
+es,blue,1500,271,18.1,12,"azules, paz, cascos, azul, fuerzas, alta, unidas, onu, naciones, alto","blues, peace, helmets, blue, forces, high, united, UN, nations, high",Conflict ,,Association,
+es,blue,1500,271,18.1,13,"azul, flores, color, forma, cuadro, estrella, mar, atlántico, montaña, área","blue, flowers, colour, form, painting, star, sea, Atlantic, mountain, area",Ecology & environment,,Occurence,
+es,blue,1500,271,18.1,14,"azul, verde, rojo, colores, amarillo, color, luz, ledes, naranja, primarios","blue, green, red, colours, yellow, colour, light, LEDs, orange, primary",Colour co-occurrence,,Occurence,
+es,blue,1500,271,18.1,15,"azul, blanco, colores, negro, color, rojo, cian, amarillo, verde, magenta","blue, white, colours, black, colour, red, cyan, yellow, green, magenta",Colour co-occurrence,,Occurence,
+es,brown,1500,32,2.1,1,"marrones, verdes, azules, marrón, colores, amarillos, líneas, rojas, natural, especie","browns, greens, blues, brown, colours, yellows, lines, reds, natural, species",Colour co-occurrence,,Occurence,
+es,brown,1500,32,2.1,2,"marrón, tejido, río, adiposo, ácido, resto, color, humanos, coronel, mando","brown, tissue, river, adipose, acid, rest, colour, humans, colonel, command",Unknown,,unknown,
+es,brown,1500,32,2.1,3,"marrón, enana, sistema, amarilla, años, luz, sol, óxido, roja, 10","brown, dwarf, system, yellow, years, light, sun, oxide, red, 10",Space,,Occurence,
+es,brown,1500,32,2.1,4,"color, marrón, oscuro, negro, amarillo, labelo, flores, cm, manchas, rojo","colour, brown, dark, black, yellow, labellum, flowers, cm, spots, red",Ecology & environment,Colour co-occurrence,Occurence,
+es,brown,1500,32,2.1,5,"marrón, negras, forma, marrones, papel, mm, bb, normalmente, región, marcas","brown, blacks, form, browns, paper, mm, BB, normally, region, marks",Unknown,,unknown,
+es,brown,1500,32,2.1,6,"marrón, colores, negro, blanco, color, azul, rojo, fondo, naranja, tonos","brown, colours, black, white, colour, blue, red, background, orange, tones",Colour co-occurrence,,Occurence,
+es,brown,1500,32,2.1,7,"marrón, trucha, pelo, color, rubio, cabello, castaño, ojos, común, negro","brown, trout, hair, colour, blond, hair, chestnut, eyes, common, black",physical description,,Occurence,
+es,brown,1500,32,2.1,8,"marrón, verde, azul, color, amarillo, negro, ojos, naranja, rojo, rosa","brown, green, blue, colour, yellow, black, eyes, orange, red, pink",Colour co-occurrence,,Occurence,
+es,brown,1500,32,2.1,9,"color, marrón, plumaje, oscuro, chocolate, negro, uniforme, pardo, hembras, verde","colour, brown, plumage, dark, chocolate, black, uniform, brown (pardo), females, green",Ecology & environment,,Occurence,
+es,brown,1500,32,2.1,10,"marrón, color, marrones, piel, blancas, grises, manchas, negra, zonas, aspecto","brown, colour, browns, skin, whites, greys, spots, black, zones, aspect",Colour co-occurrence,,Occurence,
+es,brown,1500,32,2.1,11,"marrón, color, pelaje, gris, rojizo, negro, blanco, oscuro, amarillento, cola","brown, colour, fur, grey, reddish, black, white, dark, yellowish, tail",physical description,,Occurence,
+es,brown,1500,32,2.1,12,"marrones, enanas, marrón, enana, masa, planetas, estrellas, masas, estrella, planeta","browns, dwarfs, brown, dwarf, mass, planets, stars, masses, star, planet",Space,,Occurence,
+es,brown,1500,32,2.1,13,"marrón, brown, rojo, partes, color, tortuga, línea, pico, india, oscuro","brown, brown, red, parts, colour, turtle, line, beak, India, dark",Colour co-occurrence,,Occurence,
+es,brown,1500,32,2.1,14,"color, marrón, amarillo, generalmente, mayoría, manchas, especies, anaranjado, oscuras, sépalos","colour, brown, yellow, generally, mostly, spots, species, orange, dark, sépals",Colour co-occurrence,,Occurence,
+es,brown,1500,32,2.1,15,"marrones, marrón, color, tradicionales, rayas, rojo, hembra, camiseta, finalmente, diamantes","browns, brown, colour, traditional, stripes, red, female, shirt, finally, diamonds",physical description,,Occurence,
+es,orange,1500,145,9.7,1,"naranja, gigante, magnitud, estrella, brillante, tipo, espectral, años, luz, binaria","orange, giant, magnitude, star, bright, type, spectral, years, light, binary",Space,,Occurence,
+es,orange,1500,145,9.7,2,"naranja, cultivos, país, ácido, sabor, onda, 20, pequeñas, par, diablos","orange, crops, country, acid, flavour, wave, 20, small, pair, devils",Unknown,,unknown,
+es,orange,1500,145,9.7,3,"naranja, color, citrus, zumo, llamado, tradicional, naranjas, mandarina, variedad, fruto","orange, colour, citrus, juice, called, traditional, oranges, mandarin, variety, fruit",Food & drink,,Occurence,
+es,orange,1500,145,9.7,4,"naranja, enana, años, hd, tipo, luz, planeta, naranjas, gliese, enanas","orange, dwarf, years, HD, type, light, planet, oranges, Gliese, dwarfs",Space,,Occurence,
+es,orange,1500,145,9.7,5,"naranja, mecánica, caña, piña, azúcar, mango, productor, maíz, papaya, limón","orange, mechanical, cane, pineapple, sugar, mango, producer, maize, papaya, lemon",Food & drink,,Occurence,
+es,orange,1500,145,9.7,6,"naranja, media, agente, fanta, grande, banda, cúpula, radio, unidos, tipo","orange, media, agent, Fanta, large, band, dome, radio, united, type",named entity,,Occurence,
+es,orange,1500,145,9.7,7,"naranja, blanco, azul, bandera, orange, verde, rojo, colores, color, roja","orange, white, blue, flag, orange, green, red, colours, colour, red",Colour co-occurrence,,Occurence,
+es,orange,1500,145,9.7,8,"naranja, amarillo, color, rojo, verde, colores, azul, negro, blanco, luz","orange, yellow, colour, red, green, colours, blue, black, white, light",Colour co-occurrence,,Occurence,
+es,orange,1500,145,9.7,9,"toneladas, mil, 000, millones, naranja, señor, productos, arroz, maíz, plátano","tonnes, thousand, 000, millions, orange, sir, products, rice, maize, banana",Food & drink,,Occurence,
+es,orange,1500,145,9.7,10,"naranjas, limones, producción, cultivo, cítricos, mandarinas, amor, produce, agricultura, frutas","oranges, lemons, production, cultivation, citrus, mandarins, love, produces, agriculture, fruits",Food & drink,,Occurence,
+es,orange,1500,145,9.7,11,"naranja, color, revolución, equipo, fútbol, ucrania, piel, 2004, cobreloa, forma","orange, colour, revolution, team, football, Ukraine, skin, 2004, Cobreloa, form",Politics & ideology,Arts & entertainment,Association,
+es,orange,1500,145,9.7,12,"naranja, color, año, blanca, forma, roja, isla, intenso, inglés, superior","orange, colour, year, white, form, red, island, intense, English, upper",Colour co-occurrence,,Occurence,
+es,orange,1500,145,9.7,13,"naranja, café, naranjas, leche, principal, frutas, ingredientes, dulce, jugo, dulces","orange, coffee, oranges, milk, main, fruits, ingredients, sweet, juice, sweets",Food & drink,,Occurence,
+es,orange,1500,145,9.7,14,"naranja, naranjas, guerra, españa, base, portugal, jugo, 1801, cáscara, valencia","orange, oranges, war, Spain, base, Portugal, juice, 1801, peel, Valencia",named entity,Conflict ,Occurence,
+es,orange,1500,145,9.7,15,"naranja, limón, ciudad, jugo, naranjas, fruta, aceite, cebolla, pomelo, frutas","orange, lemon, city, juice, oranges, fruit, oil, onion, pomelo, fruits",Food & drink,,Occurence,
+es,pink,1500,685,45.7,1,"rosa, novela, hijo, grupo, ángel, rose, pueblo, alberto, lópez, obra","pink/rose, novel, son, group, Ángel, rose, town/people, Alberto, López, work",named entity,,Occurence,
+es,pink,1500,685,45.7,2,"rosa, vientos, the, maría, forma, llamada, santa, maglia, periodista, septiembre","rose, winds, the, María, form, called, Santa, maglia, journalist, September",named entity,,Occurence,
+es,pink,1500,685,45.7,3,"rosa, maría, española, actriz, cantante, francisco, josé, mexicana, escritora, garcía","rose, María, Spanish, actress, singer, Francisco, José, Mexican, writer, García",named entity,,Occurence,
+es,pink,1500,685,45.7,4,"santa, rosa, lima, nombre, san, peruana, california, año, ciudad, músico","Santa, Rosa, Lima, name, San, Peruvian, California, year, city, musician",named entity,,Occurence,
+es,pink,1500,685,45.7,5,"rosas, manuel, juan, argentina, aires, gobernador, gobierno, batalla, urquiza, provincia","Rosas, Manuel, Juan, Argentina, Aires, governor, government, battle, Urquiza, province",named entity,,Occurence,
+es,pink,1500,685,45.7,6,"rosa, rosas, norte, zona, sur, época, san, pétalos, santa, martín","rose, roses, north, zone, south, era, San, petals, Santa, Martín",named entity,,Occurence,
+es,pink,1500,685,45.7,7,"rosa, san, santa, ciudad, lima, perú, nacional, miguel, juan, actual","rose, San, Santa, city, Lima, Peru, national, Miguel, Juan, current",named entity,,Occurence,
+es,pink,1500,685,45.7,8,"rosa, flor, banda, surfer, obras, centro, rey, pilgrim, on, come","rose, flower, band, surfer, works, centre, king, Pilgrim, on, come",Unknown,,unknown,
+es,pink,1500,685,45.7,9,"rosa, pantera, casa, guerra, rosas, actor, york, roja, símbolo, inglaterra","pink, panther, house, war, roses, actor, York, red, symbol, England",named entity,,Occurence,
+es,pink,1500,685,45.7,10,"rosas, español, mexicano, francisco, político, antonio, premio, trece, jesús, rojas","Rosas, Spanish, Mexican, Francisco, political, Antonio, prize, thirteen, Jesús, Rojas",Politics & ideology,,Occurence,
+es,pink,1500,685,45.7,11,"rosa, color, blanca, flores, blanco, futbolista, brasileño, diciembre, movimiento, agua","pink, colour, white, flowers, white, footballer, Brazilian, December, movement, water",Ecology & environment,,Occurence,
+es,pink,1500,685,45.7,12,"rosa, rojo, azul, verde, color, colores, blanco, amarillo, álbum, negro","pink, red, blue, green, colour, colours, white, yellow, album, black",Colour co-occurrence,,Occurence,
+es,pink,1500,685,45.7,13,"rosas, rosa, agosto, años, brasil, francia, ríos, junio, país, fiesta","roses, rose, August, years, Brazil, France, rivers, June, country, festival",Unknown,,unknown,
+es,pink,1500,685,45.7,14,"rosa, josé, juan, poeta, autor, pedro, oscuro, martínez, marzo, enero","rose, José, Juan, poet, author, Pedro, dark, Martínez, March, January",named entity,,Occurence,
+es,pink,1500,685,45.7,15,"rosa, ciudad, santa, oro, museo, conocida, luis, cantera, estilo, catedral","rose, city, Santa, gold, museum, known, Luis, quarry, style, cathedral",named entity,,Occurence,
+es,purple,1500,182,12.1,1,"morada, ciudad, vida, castillo, méxico, antigua, escudo, isla, púrpura, tono","purple, city, life, castle, Mexico, old, shield, island, purple (púrpura), tone",Life experiences,,Association,
+es,purple,1500,182,12.1,2,"morada, piel, ojos, personaje, cabello, especie, nacional, tamaño, agua, pequeño","purple, skin, eyes, character, hair, species, national, size, water, small",physical description,,Occurence,
+es,purple,1500,182,12.1,3,"morado, saprissa, comunidad, cuadro, equipo, partido, club, estadio, deportivo, copa","purple, Saprissa, community, side/team, team, party/match, club, stadium, sports, cup",named entity,,Occurence,
+es,purple,1500,182,12.1,4,"morados, moradas, morada, rojos, lugares, azules, amboto, principal, joven, planta","purples, purples, purple, reds, places, blues, Amboto, main, young, plant",Colour co-occurrence,,Occurence,
+es,purple,1500,182,12.1,5,"color, morado, verde, blanco, rojo, negro, colores, bandera, amarillo, escudo","colour, purple, green, white, red, black, colours, flag, yellow, shield",Colour co-occurrence,,Occurence,
+es,purple,1500,182,12.1,6,"morado, maíz, vino, perú, tinto, viste, resto, procesión, túnica, ojo","purple, maize, wine, Peru, red (wine), wears, rest, procession, tunic, eye",Belief and ritual,,Association,
+es,purple,1500,182,12.1,7,"morado, azul, verde, rojo, colores, amarillo, naranja, rosa, blanco, negro","purple, blue, green, red, colours, yellow, orange, pink, white, black",Colour co-occurrence,,Occurence,
+es,purple,1500,182,12.1,8,"morada, dioses, casa, dios, nombre, chicha, monte, franja, muertos, montaña","purple, gods, house, god, name, chicha, mount, stripe, dead, mountain",Belief and ritual,,Association,
+es,purple,1500,182,12.1,9,"moradas, roja, morada, variedades, amarilla, amarillas, rojas, bandera, flores, república","purples, red, purple, varieties, yellow, yellows, reds, flag, flowers, republic",Colour co-occurrence,,Occurence,
+es,purple,1500,182,12.1,10,"morada, cerro, nacional, franja, ajo, unión, sultán, radical, flor, guaria","purple, hill, national, stripe, garlic, union, sultan, radical, flower, guaria",Unknown,,unknown,
+es,purple,1500,182,12.1,11,"moradas, obra, teresa, madre, interior, morada, metros, cueva, santa, mari","purples, work, Teresa, mother, interior, purple, metres, cave, Santa, Mari",Belief and ritual,,Association,
+es,purple,1500,182,12.1,12,"lechuga, paso, santo, cristo, morada, morado, cofradía, imagen, decidió, túnica","lettuce, step/float, holy, Christ, purple, purple, brotherhood, image, decided, tunic",Belief and ritual,,Association,
+es,purple,1500,182,12.1,13,"camiseta, uniforme, morada, morado, año, medias, pantalón, señor, blanco, estudiantes","shirt, uniform, purple, purple, year, socks, trousers, sir, white, students",physical description,,Occurence,
+es,purple,1500,182,12.1,14,"morada, años, san, dios, josé, juan, cuerpo, muertos, restos, muerte","purple, years, San, god, body, dead, remains, death",Death ,Belief and ritual,Association,
+es,purple,1500,182,12.1,15,"morada, tierra, lirio, allanamiento, flor, mundo, hierba, base, conocido, franja","purple, earth, iris/lily, break-in, flower, world, herb, base, known, stripe",Ecology & environment,,Occurence,
+es,gray,1500,140,9.3,1,"gris, años, grises, hombres, época, año, cola, ángel, guerra, libro","grey, years, greys, men, era, year, tail, Ángel, war, book",Life experiences,,Occurence,
+es,gray,1500,140,9.3,2,"negro, gris, blanco, colores, color, puertos, rojo, gandalf, logotipo, verde","black, grey, white, colours, colour, ports, red, Gandalf, logo, green",Colour co-occurrence,,Occurence,
+es,gray,1500,140,9.3,3,"gris, nombre, tierra, media, región, larga, barba, punto, significa, mundo","grey, name, earth, middle, region, long, beard, point, means, world",named entity,,Occurence,
+es,gray,1500,140,9.3,4,"gris, lobo, especies, incluye, oso, animales, tipo, arena, fauna, canis","grey, wolf, species, includes, bear, animals, type, sand, fauna, Canis",physical description,,Occurence,
+es,gray,1500,140,9.3,5,"gris, piedra, obra, mármol, granito, aire, construido, caliza, finales, museo","grey, stone, work, marble, granite, air, built, limestone, late, museum",physical description,,Occurence,
+es,gray,1500,140,9.3,6,"gris, sustancia, común, forma, blanca, núcleo, color, cerebro, núcleos, central","grey, substance, common, form, white, nucleus, colour, brain, nuclei, central",Life experiences,,Occurence,
+es,gray,1500,140,9.3,7,"gris, marrón, color, zorro, especies, mamíferos, plumaje, comunes, puma, gato","grey, brown, colour, fox, species, mammals, plumage, common, puma, cat",physical description,,Occurence,
+es,gray,1500,140,9.3,8,"gris, color, blanco, cabeza, cuerpo, pelo, especies, caso, capa, aspecto","grey, colour, white, head, body, hair/fur, species, case, coat, aspect",physical description,,Occurence,
+es,gray,1500,140,9.3,9,"gris, ballena, área, balaenoptera, especie, texto, verdoso, número, término, cerebro","grey, whale, area, Balaenoptera, species, text, greenish, number, term, brain",physical description,,Occurence,
+es,gray,1500,140,9.3,10,"gris, juan, picasso, pablo, braque, cubismo, estaño, artistas, español, lobos","grey, Juan, Picasso, Pablo, Braque, cubism, tin, artists, Spanish, wolves",Arts & entertainment,,Occurence,
+es,gray,1500,140,9.3,11,"grises, color, escala, imagen, negros, imágenes, forma, gris, niveles, ojos","greys, colour, scale, image, blacks, images, form, grey, levels, eyes",Arts & entertainment,,Occurence,
+es,gray,1500,140,9.3,12,"gris, corteza, roja, basales, tono, base, fondo, oscuras, ganglios, tinta","grey, cortex, red, basal, tone, base, background, dark, ganglia, ink",Arts & entertainment,,Occurence,
+es,gray,1500,140,9.3,13,"grises, ballenas, tonos, verdes, marrones, negros, blancos, aguas, azules, tamaño","greys, whales, tones, greens, browns, blacks, whites, waters, blues, size",Colour co-occurrence,,Occurence,
+es,gray,1500,140,9.3,14,"color, gris, blanco, oscuro, rojo, presenta, formación, colores, game, boy","colour, grey, white, dark, red, presents, formation, colours, Game, Boy",Colour co-occurrence,,Occurence,
+es,gray,1500,140,9.3,15,"gris, azul, colores, amarillo, negro, verde, rojo, oscuro, uniforme, pinot","grey, blue, colours, yellow, black, green, red, dark, uniform, Pinot",Colour co-occurrence,,Occurence,
+ca,black,1500,252,16.8,1,"negres, cabernet, garnatxa, ull, sauvignon, llebre, negra, varietats, merlot, petit","blacks, cabernet, garnacha, ull (de llebre grape), sauvignon, hare, black, varieties, merlot, small",Food & drink,,Occurence,
+ca,black,1500,252,16.8,2,"negre, negra, novel, general, ara, the, diversos, sèrie, verd, manera","black, black, novel, general, now, the, various, series, green, way",Arts & entertainment,,Occurence,
+ca,black,1500,252,16.8,3,"negre, colors, verd, negres, vermell, blanc, blancs, blau, or, groc","black, colours, green, blacks, red, white, whites, blue, gold, yellow",Colour co-occurrence,,Occurence,
+ca,black,1500,252,16.8,4,"negres, dones, egipcis, se, blanques, forats, nom, slutwalk, tenien, havien","blacks, women, Egyptians, [reflexive], whites, holes, name, SlutWalk, had, had",Politics & ideology,Identity ,Association,
+ca,black,1500,252,16.8,5,"negre, color, blanc, forat, marró, part, forma, fosc, imatge, setembre","black, colour, white, hole, brown, part, form, dark, image, September",Space,,Occurence,
+ca,black,1500,252,16.8,6,"negres, negre, té, se, vins, vi, primers, varietat, panteres, art","black, black, tea, see, wines, wine, first, variety, panthers, art",Food & drink,,Occurence,
+ca,black,1500,252,16.8,7,"mar, sud, km, oest, nord, negra, troba, negre, riu, est","sea, south, km, west, north, black, finds, black, river, east",named entity,,Occurence,
+ca,black,1500,252,16.8,8,"negres, negra, moviment, black, power, gran, se, premi, blanca, cultura","black, black, movement, black, power, great, is, prize, white, culture",Identity ,,Association,
+ca,black,1500,252,16.8,9,"negra, negre, comèdia, llum, lícules, dos, gorg, fet, pot, dona","black, black, comedy, light, licks, two, gorg, done, can, woman",Arts & entertainment,,Occurence,
+ca,black,1500,252,16.8,10,"negra, cap, negre, píndola, llista, comunitat, fou, vermella, mar, americana","black, head, black, pill, list, community, was, red, sea, American",Politics & ideology,named entity,Association,
+ca,black,1500,252,16.8,11,"negre, estats, anys, units, club, blanc, negra, primera, lícules, verd","black, states, years, united, club, white, black, first, films, green",Colour co-occurrence,,Occurence,
+ca,black,1500,252,16.8,12,"negre, família, sud, espècie, ocell, any, est, humor, picot, pícids","black, family, south, species, bird, year, east, humour, woodpecker, woodpeckers",Ecology & environment,,Occurence,
+ca,black,1500,252,16.8,13,"negre, blanc, lícula, dirigida, muda, the, partit, marbre, negra, pantera","black, white, film, directed, silent, the, party, marble, black, panther",Arts & entertainment,,Occurence,
+ca,black,1500,252,16.8,14,"negre, negres, esclaus, persones, massa, fill, col, soldats, ruiz, resultat","black, blacks, slaves, persons, mass, son, [col], soldiers, Ruiz, result",Identity ,Conflict ,Association,
+ca,black,1500,252,16.8,15,"negre, film, cos, blanc, estany, presó, lícula, roig, història, playa","black, film, body, white, pond, prison, film, red, history, beach",Arts & entertainment,Colour co-occurrence,Occurence,
+ca,white,1500,237,15.8,1,"blanc, pintat, dreta, blancs, parament, negre, edifici, façana, aigua, cristal","white, painted, right, whites, wall-facing, black, building, façade, water, glass",physical description,,Occurence,
+ca,white,1500,237,15.8,2,"blanques, blanc, varietats, tres, color, blanca, sauvignon, dues, línies, macabeu","whites, white, varieties, three, colour, white, sauvignon, two, lines, macabeu",Food & drink,,Occurence,
+ca,white,1500,237,15.8,3,"blanc, home, grup, dos, color, negre, banda, punt, tipus, sòlid","white, man, group, two, colour, black, band, point, type, solid",Unknown,,unknown,
+ca,white,1500,237,15.8,4,"blanca, casa, maría, se, sucre, llum, gran, president, través, trump","white, house, Mary, is, sugar, light, great, president, through, Trump",named entity,,Occurence,
+ca,white,1500,237,15.8,5,"blanca, blanc, club, novel, catifes, central, platja, carn, conegut, ella","white, white, club, novel, carpets, central, beach, meat, known, she",Unknown,,unknown,
+ca,white,1500,237,15.8,6,"blanc, colors, blau, vermell, verd, pinus, pi, groc, negre, espècies","white, colours, blue, red, green, Pinus, pine, yellow, black, species",Colour co-occurrence,,Occurence,
+ca,white,1500,237,15.8,7,"blanca, dones, blanques, negra, moviment, dona, col, pot, cor, ell","white, women, white, black, movement, woman, neck, can, heart, he",Identity ,,Association,
+ca,white,1500,237,15.8,8,"blanc, part, color, marró, gris, blanca, fosc, superior, pelatge, posició","white, part, colour, brown, grey, white, dark, upper, fur, position",Colour co-occurrence,named entity,Occurence,
+ca,white,1500,237,15.8,9,"blanc, color, negre, té, vi, flors, lo, imatge, fons, verd","white, colour, black, tea, wine, flowers, the, image, background, green",Colour co-occurrence,Ecology & environment,Occurence,
+ca,white,1500,237,15.8,10,"blanc, negre, lícula, the, dirigida, muda, anomenat, fou, diversos, mont","white, black, film, the, directed, silent, called, was, various, mount",Arts & entertainment,,Occurence,
+ca,white,1500,237,15.8,11,"blancs, negres, blanques, nord, sud, família, est, se, planta, oest","white, black, white, north, south, family, east, see, plant, west",physical description,,Occurence,
+ca,white,1500,237,15.8,12,"blancs, vins, blanc, negres, cap, se, capa, llibre, vermella, menys","whites, wines, white, blacks, no, is, is, book, red, less",Food & drink,,Occurence,
+ca,white,1500,237,15.8,13,"blanc, blancs, estats, units, forma, creu, negre, guerra, distintiu, mèrit","white, whites, states, united, form, cross, black, war, distinctive, merit",Conflict ,,Association,
+ca,white,1500,237,15.8,14,"blanc, marbre, cap, blanca, tracta, ciutat, mare, rei, octubre, equip","white, marble, cap, white, deals, city, mother, king, October, team",Power structures or hierarchies,,Association,
+ca,white,1500,237,15.8,15,"blanca, blancs, blanc, segona, té, nom, peces, finestres, varietat, sempre","white, whites, white, second, has, name, pieces, windows, variety, always",Unknown,,unknown,
+ca,red,1500,122,8.1,1,"vermella, verda, llum, dones, dia, vermell, homes, causa, color, cap","red, green, light, women, day, red, men, cause, colour, cap/head",Identity ,Colour co-occurrence,Association,
+ca,red,1500,122,8.1,2,"vermell, tipus, espectral, nan, nord, gegant, sud, vegades, vermella, est","red, type, spectral, dwarf, north, giant, south, times, red, east",Space,,Occurence,
+ca,red,1500,122,8.1,3,"vermella, creu, vermelles, píndola, blanques, vermell, caputxeta, mèrit, blaves, mort","red, cross, reds, pill, whites, red, Little Red Riding Hood, merit, blues, death",Conflict ,Arts & entertainment,Association,
+ca,red,1500,122,8.1,4,"vermell, color, capa, pot, taronja, vermella, cap, blau, partir, lícula","red, colour, cape/layer, can, orange, red, head, blue, from, film",Colour co-occurrence,Arts & entertainment,Occurence,
+ca,red,1500,122,8.1,5,"vermella, vermell, catifa, unitat, nom, sèrie, cercopithecus, the, vermelles, conegut","red, red, carpet, unit, name, series, Cercopithecus, the, reds, known",named entity,,Occurence,
+ca,red,1500,122,8.1,6,"vermell, vermella, línia, color, través, verd, segons, té, pedra, filtres","red, red, line, colour, through, green, according, has, stone, filters",Arts & entertainment,Colour co-occurrence,Occurence,
+ca,red,1500,122,8.1,7,"vermell, blau, colors, verd, color, groc, tres, blanc, sovint, fosc","red, blue, colours, green, colour, yellow, three, white, often, dark",Colour co-occurrence,,Occurence,
+ca,red,1500,122,8.1,8,"vermell, riu, vermella, se, espècie, vermelles, sol, estel, família, delta","red, river, red, [refl.], species, reds, sun, star, family, delta",Space,,Occurence,
+ca,red,1500,122,8.1,9,"anys, vermell, llum, vermells, centre, milions, estels, sistema, estrella, prop","years, red, light, reds, centre, millions, stars, system, star, near",Space,,Occurence,
+ca,red,1500,122,8.1,10,"vermelles, vermell, diferents, gran, llum, principalment, ferro, pigment, segons, terres","reds, red, different, big, light, mainly, iron, pigment, according, earths",Arts & entertainment,,Occurence,
+ca,red,1500,122,8.1,11,"vermella, dues, espècies, primera, carn, drap, alt, escut, bandera, llista","red, two, species, first, meat, cloth, high, shield, flag, list",Conflict ,,Association,
+ca,red,1500,122,8.1,12,"vermella, vermelles, ceràmica, nana, blanca, pintura, símbol, gliese, façana, peces","red, reds, ceramic, dwarf, white, painting, symbol, Gliese, façade, pieces",named entity,,Occurence,
+ca,red,1500,122,8.1,13,"vermell, blanc, colors, negre, blau, or, groc, bandera, verd, llibre","red, white, colours, black, blue, gold, yellow, flag, green, book",Colour co-occurrence,,Occurence,
+ca,red,1500,122,8.1,14,"vermells, fons, vermell, negres, mm, blancs, tenen, casa, any, nivell","reds, background, red, blacks, mm, whites, have, house, year, level",Unknown,,unknown,
+ca,red,1500,122,8.1,15,"color, vermell, forma, negre, té, marró, línies, flors, pintades, brillant","colour, red, form, black, has, brown, lines, flowers, painted, bright",Colour co-occurrence,Arts & entertainment,Occurence,
+ca,green,1500,457,30.5,1,"verd, espècie, família, ocell, boscos, barbut, psilopogon, habita, megalaimidae, megalèmids","green, species, family, bird, forests, barbet, Psilopogon, inhabits, Megalaimidae, barbets",named entity,,Occurence,
+ca,green,1500,457,30.5,2,"verds, esquerra, catalunya, blaus, grup, unida, iniciativa, vermells, país, parlament","greens, left, Catalonia, blues, group, united, initiative, reds, country, parliament",Politics & ideology,Politics & ideology,Association,
+ca,green,1500,457,30.5,3,"verd, colors, blau, vermell, programa, blanc, groc, foc, tres, negre","green, colours, blue, red, programme, white, yellow, fire/light, three, black",Colour co-occurrence,,Occurence,
+ca,green,1500,457,30.5,4,"verd, negre, club, verdes, verda, parc, zones, zona, té, sant","green, black, club, greens, green, park, zones, zone, has, saint",Ecology & environment,Colour co-occurrence,Association,
+ca,green,1500,457,30.5,5,"sud, verds, nord, est, ale, oest, llista, verd, xina, tailàndia","south, green, north, east, ale, west, list, green, china, thailand",named entity,,Occurence,
+ca,green,1500,457,30.5,6,"verda, via, línia, parts, forma, tajuña, cm, col, part, traçat","green, route, line, parts, shape, rail, cm, neck, part, layout",Ecology & environment,Arts & entertainment,Occurence,
+ca,green,1500,457,30.5,7,"color, verd, vermell, blau, fosc, groc, dos, blanc, fulles, part","colour, green, red, blue, dark, yellow, two, white, leaves, part",Colour co-occurrence,,Occurence,
+ca,green,1500,457,30.5,8,"partit, verd, fou, eleccions, ruanda, negres, democràtic, moviment, aliança, polític","party, green, was, elections, Rwanda, blacks, democratic, movement, alliance, political",Politics & ideology,,Association,
+ca,green,1500,457,30.5,9,"verd, cap, illes, verdes, guinea, literatura, 2015, agost, illa, aigua","green, cape, islands, greens, Guinea, literature, 2015, August, island, water",named entity,,Occurence,
+ca,green,1500,457,30.5,10,"verd, verdes, grans, flors, 2018, gran, fulles, universitat, green, sèrie","green, greens, big, flowers, 2018, big, leaves, university, green, series",Ecology & environment,,Occurence,
+ca,green,1500,457,30.5,11,"verda, verd, línia, lícula, donar, espai, zona, xipre, llum, seguretat","green, green, line, film, give, space, zone, Cyprus, light, security",Unknown,,unknown,
+ca,green,1500,457,30.5,12,"verda, zona, forma, pot, jardins, nacions, unides, garsa, menjar, pantalla","green, zone, form, can, gardens, nations, united, magpie, food, screen",Ecology & environment,,Association,
+ca,green,1500,457,30.5,13,"verd, fons, temporada, noves, incorporacions, equip, negre, jugador, debutar, anell","green, background, season, new, signings, team, black, player, debut, ring",Arts & entertainment,,Occurence,
+ca,green,1500,457,30.5,14,"verd, se, ciutat, verda, nom, actualment, primera, finalistes, denota, lloc","green, see, city, green, noun, currently, first, finalists, denotes, place",Unknown,,unknown,
+ca,green,1500,457,30.5,15,"verdes, los, verds, fulles, verd, europeu, aliança, diversos, peces, motius","green, leaves, green, European, alliance, various, pieces, motifs",Ecology & environment,,Association,
+ca,yellow,1500,102,6.8,1,"groc, color, virus, flors, taronja, forma, daurat, té, cap, presenta","yellow, colour, virus, flowers, orange, form, golden, has, cap, presents",Ecology & environment,Warnings,Occurence,
+ca,yellow,1500,102,6.8,2,"groc, color, lid, pàl, mm, flors, pètals, superior, cm, part","yellow, colour, lid, pale, mm, flowers, petals, upper, cm, part",Ecology & environment,,Occurence,
+ca,yellow,1500,102,6.8,3,"grogues, flors, negres, moviment, vermelles, blaves, estams, armilles, té, 10","yellows, flowers, blacks, movement, reds, blues, stamens, vests/waistcoats, has, 10",Ecology & environment,Colour co-occurrence,Occurence,
+ca,yellow,1500,102,6.8,4,"tipus, espectral, groc, estel, temperatura, sol, principal, groga, gegant, blanc","type, spectral, yellow, star, temperature, sun, main, yellow, giant, white",Space,,Occurence,
+ca,yellow,1500,102,6.8,5,"groga, groc, part, lloc, col, imatge, fusta, blanc, catalunya, punt","yellow, yellow, part, place, cabbage, image, wood, white, Catalonia, point",Unknown,,unknown,
+ca,yellow,1500,102,6.8,6,"groga, blanca, drap, escut, centre, alt, vora, tres, bandera, verd","yellow, white, cloth, shield, centre, high, edge, three, flag, green",Identity ,,Occurence,
+ca,yellow,1500,102,6.8,7,"groc, mar, background, b0e0e6, style, scope, row, color, fosc, diferents","yellow, sea, background, b0e0e6, style, scope, row, colour, dark, different",Noise,,unknown,
+ca,yellow,1500,102,6.8,8,"groga, febre, estrella, magnitud, supergegant, anys, verda, gènere, geganta, blava","yellow, fever, star, magnitude, supergiant, years, green, genus, giant, blue",Space,,Occurence,
+ca,yellow,1500,102,6.8,9,"groc, colors, vermell, blau, verd, color, negre, blanc, família, tres","yellow, colours, red, blue, green, colour, black, white, family, three",Colour co-occurrence,,Occurence,
+ca,yellow,1500,102,6.8,10,"groga, febre, epidèmia, malaltia, barcelona, ciutat, 1821, buenos, aires, espècies","yellow, fever, epidemic, illness, Barcelona, city, 1821, Buenos, Aires, species",Warnings,,Association,
+ca,yellow,1500,102,6.8,11,"grocs, se, groga, blaus, vermells, targeta, punts, negres, blancs, verds","yellow, I know, yellow, blue, red, card, points, black, white, green",Colour co-occurrence,,Occurence,
+ca,yellow,1500,102,6.8,12,"groc, color, riu, marró, aigua, nom, cos, pot, xina, mar","yellow, colour, river, brown, water, name, body, can, China, sea",named entity,,Occurence,
+ca,yellow,1500,102,6.8,13,"fons, groc, llum, color, sud, interior, zona, petita, est, muntanyes","background, yellow, light, colour, south, interior, zone, small, east, mountains",Arts & entertainment,,Occurence,
+ca,yellow,1500,102,6.8,14,"groc, túnica, riu, mantell, color, mallot, paper, blava, sant, primera","yellow, tunic, river, cloak, colour, jersey, paper, blue, saint, first",Unknown,,Occurence,
+ca,yellow,1500,102,6.8,15,"groc, dos, gran, blanc, color, blau, negre, dues, plaques, disseny","yellow, two, big, white, colour, blue, black, two, plates, design",Colour co-occurrence,Arts & entertainment,Occurence,
+ca,blue,1500,292,19.5,1,"sud, blava, blaves, blau, est, cap, estel, oest, representa, variable","south, blue, blues, blue, east, cap, star, west, represents, variable",Space,,Occurence,
+ca,blue,1500,292,19.5,2,"blava, costa, alps, provença, tipus, morts, espectral, regió, blau, gegant","blue, coast, Alps, Provence, type, deaths, spectral, region, blue, giant",named entity,Space,Occurence,
+ca,blue,1500,292,19.5,3,"blaus, blava, cascos, blau, forma, club, verda, base, dos, exemple","blues, blue, helmets, blue, form, club, green, base, two, example",Conflict ,Politics & ideology,Association,
+ca,blue,1500,292,19.5,4,"blaves, color, blanques, capa, blau, tenen, verds, blue, mitges, blava","blues, colour, whites, layer, blue, have, greens, blue, socks, blue",Colour co-occurrence,,Occurence,
+ca,blue,1500,292,19.5,5,"blau, nom, il, alt, nou, grup, bandera, homes, aigua, pintura","blue, noun, colour, new, group, flag, men, water, paint",Arts & entertainment,,Occurence,
+ca,blue,1500,292,19.5,6,"blau, blava, fons, col, membres, divisió, ciutat, obra, túnica, mantell","blue, blue, deep, cabbage, limbs, division, city, work, tunic, cloak",Unknown,,unknown,
+ca,blue,1500,292,19.5,7,"blaus, ulls, blancs, cascs, vermells, llibres, gal, estels, blanca, pell","blues, eyes, whites, helmets, reds, books, gal, stars, white, skin",Unknown,,unknown,
+ca,blue,1500,292,19.5,8,"blau, cel, color, estany, fosc, vermell, gorg, gris, negre, nord","blue, sky, colour, pond, dark, red, gorge, grey, black, north",Colour co-occurrence,,Occurence,
+ca,blue,1500,292,19.5,9,"blau, color, vermell, colors, verd, blanc, groc, negre, tres, fosc","blue, colour, red, colours, green, white, yellow, black, three, dark",Colour co-occurrence,,Occurence,
+ca,blue,1500,292,19.5,10,"blau, ratlles, pot, línies, negres, dues, deu, imatges, 40, 35","blue, stripes, can, lines, blacks, two, ten, images, 40, 35",Unknown,,unknown,
+ca,blue,1500,292,19.5,11,"blau, blava, gran, coll, blanc, nacional, part, uniforme, moviment, treball","blue, blue, big, collar, white, national, part, uniform, movement, work",Identity ,,Association,
+ca,blue,1500,292,19.5,12,"blava, part, superior, divisió, llum, guerra, segona, ona, inferior, cap","blue, part, upper, division, light, war, second, wave, lower, cap",Conflict ,,Association,
+ca,blue,1500,292,19.5,13,"blau, any, motius, quatre, vermell, grans, cercle, primera, primaris, donar","blue, year, motifs, four, red, big, circle, first, primary, give",Arts & entertainment,Colour co-occurrence,Occurence,
+ca,blue,1500,292,19.5,14,"joc, dos, partida, blaus, 15, rojos, 10, blau, trio, 25","game, two, match, blues, 15, reds, 10, blue, trio, 25",Unknown,,unknown,
+ca,blue,1500,292,19.5,15,"blava, blau, línia, blanc, consell, parts, israel, coalició, família, unifil","blue, blue, line, white, council, parts, Israel, coalition, family, UNIFIL",Conflict ,Politics & ideology,Association,
+ca,brown,1500,26,1.7,1,"color, marró, part, cap, branques, densament, central, lenticel, pàl, fosc","colour, brown, part, cap, branches, densely, central, lenticel, pale, dark",Ecology & environment,,Occurence,
+ca,brown,1500,26,1.7,2,"marró, color, fosc, té, pelatge, clar, dorsal, vermellós, blanc, taronja","brown, colour, dark, has, fur, light, dorsal, reddish, white, orange",physical description,,Occurence,
+ca,brown,1500,26,1.7,3,"colors, marrons, marró, negre, rosa, blanc, pintura, blancs, sovint, grisos","colours, browns, brown, black, pink, painting, whites, often, greys",Colour co-occurrence,,Occurence,
+ca,brown,1500,26,1.7,4,"marró, serp, oriental, ceràmica, vermellós, teixit, nord, cel, to, nova","brown, snake, oriental, ceramic, reddish, tissue, north, sky, tone, new",Unknown,,unknown,
+ca,brown,1500,26,1.7,5,"marró, nana, parts, forma, marrons, nanes, troba, inferiors, sistema, voltant","brown, dwarf, parts, form, browns, dwarfs, finds, lower, system, around",Space,,Occurence,
+ca,brown,1500,26,1.7,6,"marró, color, negre, negra, gris, cua, cara, fosc, cap, blanca","brown, colour, black, black, grey, tail, face, dark, cap, white",Colour co-occurrence,,Occurence,
+ca,brown,1500,26,1.7,7,"color, marró, pàl, lid, vermellós, fosc, groc, groguenc, verd, potes","colour, brown, pale, lip, reddish, dark, yellow, yellowish, green, legs",Colour co-occurrence,Death ,Occurence,
+ca,brown,1500,26,1.7,8,"marró, taques, color, marrons, cm, tenen, fulles, base, punta, menys","brown, spots, colour, browns, cm, have, leaves, base, tip, less",Ecology & environment,,Occurence,
+ca,brown,1500,26,1.7,9,"cm, mm, marró, color, marge, 10, diàmetre, 15, aproximadament, llargada","cm, mm, brown, colour, margin, 10, diameter, 15, approximately, length",physical description,,Occurence,
+ca,brown,1500,26,1.7,10,"marrons, ulls, universitat, dos, blaus, generalment, cabells, alumnes, blanca, negra","browns, eyes, university, two, blues, generally, hair, students, white, black",Life experiences,,Occurence,
+ca,brown,1500,26,1.7,11,"marró, part, color, superior, blanc, inferior, gris, pelatge, dors, ventre","brown, part, colour, upper, white, lower, grey, fur, back, belly",Colour co-occurrence,,Occurence,
+ca,brown,1500,26,1.7,12,"marró, color, verd, groc, fosc, vermell, negre, cos, blau, fons","brown, colour, green, yellow, dark, red, black, body, blue, background",Colour co-occurrence,,Occurence,
+ca,brown,1500,26,1.7,13,"marró, negres, color, escorça, marrons, tenia, fosques, clar, pintada, estil","brown, blacks, colour, bark, browns, had, dark, painted, style",Colour co-occurrence,Arts & entertainment,Occurence,
+ca,brown,1500,26,1.7,14,"marrons, marró, serps, blanques, anys, línia, flancs, orientals, ull, nervis","browns, brown, snakes, whites, years, line, flanks, orientals, eye, nerves",physical description,,Occurence,
+ca,brown,1500,26,1.7,15,"se, marrons, marró, presenta, 12, uniforme, adults, ales, fulla, presenten","se, browns, brown, presents, 12, uniform, adults, wings, leaf, present",physical description,,Occurence,
+ca,orange,1500,85,5.7,1,"mm, tub, taronja, ample, flors, color, corol, pètals, groc, nom","mm, tube, orange, wide, flowers, colour, corolla, petals, yellow, name",Ecology & environment,,Occurence,
+ca,orange,1500,85,5.7,2,"taronja, suc, anys, llum, solar, sistema, mitja, sol, any, natural","orange, juice, years, light, solar, system, half, sun, year, natural",Space,,Occurence,
+ca,orange,1500,85,5.7,3,"taronja, millor, mecànica, or, premi, lícula, cinema, orange, color, the","orange, best, mechanical, gold, prize, film, cinema, orange, colour, the",Arts & entertainment,,Occurence,
+ca,orange,1500,85,5.7,4,"taronja, taronges, llimona, col, grogues, colors, oli, ratlles, primera, blaves","orange, oranges, lemon, cabbage, yellows, colors, oil, stripes, first, blues",Food & drink,,Occurence,
+ca,orange,1500,85,5.7,5,"taronja, família, ocell, espècie, sud, bandera, verd, apareixen, verda, habita","orange, family, bird, species, south, flag, green, appear, green, inhabits",Ecology & environment,,Occurence,
+ca,orange,1500,85,5.7,6,"tipus, taronja, espectral, gegant, temperatura, efectiva, estel, k0iii, nan, temps","type, orange, spectral, giant, temperature, effective, star, K0III, dwarf, time",Space,,Occurence,
+ca,orange,1500,85,5.7,7,"taronja, color, marró, verd, vermell, línia, ulls, presenten, clar, àrea","orange, colour, brown, green, red, line, eyes, present, light, area",Colour co-occurrence,,Occurence,
+ca,orange,1500,85,5.7,8,"taronja, nana, principal, estel, magnitud, tipus, sistema, troba, brillant, binari","orange, dwarf, main, star, magnitude, type, system, finds, bright, binary",Space,,Occurence,
+ca,orange,1500,85,5.7,9,"taronja, blau, color, vermell, colors, verd, groc, blanc, negre, roig","orange, blue, colour, red, colours, green, yellow, white, black, red",Colour co-occurrence,,Occurence,
+ca,orange,1500,85,5.7,10,"taronja, groc, color, vermell, brillant, cap, dona, manera, rosa, diferents","orange, yellow, colour, red, bright, cap, gives, way, pink, different",Colour co-occurrence,,Occurence,
+ca,orange,1500,85,5.7,11,"taronja, color, superficial, forma, flors, formació, equip, 2015, ciutadans, cara","orange, colour, superficial, form, flowers, formation, team, 2015, Ciutadans, face",Politics & ideology,,Association,
+ca,orange,1500,85,5.7,12,"guerra, taronges, gran, 1801, pintura, arròs, fou, participar, sucre, taronja","war, oranges, big, 1801, painting, rice, was, participate, sugar, orange",Conflict ,named entity,Occurence,
+ca,orange,1500,85,5.7,13,"taronges, tres, gegants, producció, quatre, tauri, se, menys, especialment, exportació","oranges, three, giants, production, four, Taurus, six, less, especially, export",Unknown,,unknown,
+ca,orange,1500,85,5.7,14,"taronja, pot, grans, pell, se, agent, fruites, to, causa, units","orange, pot, grains, peel, seed, agent, fruits, tone, cause, united",Food & drink,,Occurence,
+ca,orange,1500,85,5.7,15,"color, taronja, marró, fosc, part, negre, taques, dorsal, cos, negres","colour, orange, brown, dark, part, black, spots, dorsal, body, negres",physical description,,Occurence,
+ca,pink,1500,786,52.4,1,"rosa, espanyola, jordi, lícules, roses, sant, fou, anys, sensat, ràdio","rose, Spanish, Jordi, lice, roses, saint, was, years, sensible, radio",named entity,,Occurence,
+ca,pink,1500,786,52.4,2,"rosa, coneguda, món, dia, amarillo, té, director, summers, cinema, vida","pink, well-known, world, day, yellow, tea, director, Summers, cinema, life",Unknown,,unknown,
+ca,pink,1500,786,52.4,3,"rosa, maria, teresa, any, club, josep, barcelona, costat, tres, montserrat","rose, Maria, Teresa, year, club, Josep, Barcelona, side, three, Montserrat",Identity ,named entity,Occurence,
+ca,pink,1500,786,52.4,4,"rosa, santa, nord, sud, cap, san, califòrnia, part, est, oest","rose, Santa, north, south, cap, San, California, part, east, west",named entity,,Occurence,
+ca,pink,1500,786,52.4,5,"rosa, color, flors, blanc, units, estats, roses, novembre, pètals, cap","rose, colour, flowers, white, united, states, roses, November, petals, cap",Ecology & environment,,Occurence,
+ca,pink,1500,786,52.4,6,"rosa, premi, se, or, gran, los, guanyar, moment, triangle, passar","rose, prize, I am, gold, great, them, win, moment, triangle, happen",Life experiences,,Occurence,
+ca,pink,1500,786,52.4,7,"roses, dues, guerra, the, of, rose, se, guns, col, and","Roses, two, war, the, of, rose, see, guns, neck, and",Conflict ,named entity,Occurence,
+ca,pink,1500,786,52.4,8,"rosa, compte, vents, santa, dos, josé, impremta, gènere, miguel, primera","rose, account, winds, Santa, two, José, printing, genre, Miguel, first",Unknown,,unknown,
+ca,pink,1500,786,52.4,9,"rosa, millor, 2012, the, dècada, sánchez, direcció, porpra, musical, actors","rose, best, 2012, the, decade, Sánchez, direction, purple, musical, actors",Arts & entertainment,,Occurence,
+ca,pink,1500,786,52.4,10,"rosa, casa, treball, obra, catalunya, segons, escriptura, nova, 2000, york","rose, house, work, Catalonia, according, writing, new, 2000, York",named entity,,Occurence,
+ca,pink,1500,786,52.4,11,"rosa, luxemburg, nom, obres, música, ella, alba, primera, viëtor, fusta","rose, Luxemburg, name, works, music, she, dawn/Alba, first, Viëtor, wood",Unknown,,unknown,
+ca,pink,1500,786,52.4,12,"maría, rosa, sant, blau, colors, mateo, josé, luisa, martínez, groc","María, rose, saint, blue, colours, Mateo, José, Luisa, Martínez, yellow",Belief and ritual,,Association,
+ca,pink,1500,786,52.4,13,"rosa, maria, josé, filla, gener, juan, francesc, blanca, carlos, josep","rose, Maria, José, daughter, January, Juan, Francesc, white, Carlos, Josep",Unknown,,unknown,
+ca,pink,1500,786,52.4,14,"rosa, ana, quintana, col, programa, garcía, periodista, por, dona, fill","Rose, Ana, Quintana, Cole, Programme, García, Journalist, Fear, Woman, Son",named entity,,Occurence,
+ca,pink,1500,786,52.4,15,"rosa, any, barcelona, santa, lima, maria, forma, 2004, octubre, néixer","rose, year, Barcelona, Santa, Lima, Maria, form, 2004, October, be born",Unknown,,unknown,
+ca,purple,562,45,8,1,"morat, color, dues, dos, terol, partit, chouan, línies, vegades, fons","purple, colour, two, two, Terol, party, Chouan, lines, times, background",Politics & ideology,,Association,
+ca,purple,562,45,8,2,"morades, morat, servir, negre, sèrie, ara, exemple, principal, dos, flors","purples, purple, serve, black, series, now, example, main, two, flowers",Unknown,,unknown,
+ca,purple,562,45,8,3,"morat, morada, negra, botons, rivet, sotana, negre, borla, seda, família","purple, purple, black, buttons, piping, cassock, black, tassel, silk, family",Power structures or hierarchies,,Association,
+ca,purple,562,45,8,4,"color, morat, rosa, groc, morats, blau, fosc, part, flors, vermell","colour, purple, pink, yellow, purples, blue, dark, part, flowers, red",Colour co-occurrence,,Occurence,
+ca,purple,562,45,8,5,"josé, martínez, maría, antonio, morat, francisco, morada, morats, garcía, juan","José, Martínez, María, Antonio, purple, Francisco, purple, purples, García, Juan",named entity,,Occurence,
+ca,purple,562,45,8,6,"morada, morat, llet, lleteroles, morats, le, negres, té, luitz, 1926","purple, mauve, milk, daffodils, mauves, milk, black, tea, luitz, 1926",Unknown,,unknown,
+ca,purple,562,45,8,7,"morat, blanc, flors, paper, dues, color, morades, tres, to, cap","purple, white, flowers, paper, two, colour, purples, three, tone, cap",Ecology & environment,,Occurence,
+ca,purple,562,45,8,8,"morada, pot, blanca, cap, estil, gran, nom, mai, personatge, bisbes","purple, can, white, cap, style, big, name, never, character, bishops",Belief and ritual,,Association,
+ca,purple,562,45,8,9,"morat, verd, negre, colors, blau, blanc, groc, turquesa, color, morada","purple, green, black, colours, blue, white, yellow, turquoise, colour, purple",Colour co-occurrence,,Occurence,
+ca,purple,562,45,8,10,"morat, blau, color, carxofa, gran, violeta, drac, nit, capitalisme, vargas","purple, blue, colour, artichoke, big, violet, dragon, night, capitalism, Vargas",Unknown,,unknown,
+ca,purple,562,45,8,11,"color, morada, lactarius, lleterola, morat, blau, groc, clar, banda, franja","colour, purple, Lactarius, milkwort, purple, blue, yellow, light, band, stripe",Ecology & environment,,Occurence,
+ca,purple,562,45,8,12,"morat, mm, morades, ull, corol, anomenat, tenen, tub, vermelles, du","purple, mm, purples, eye, corolla, named, have, tube, reds, do",Ecology & environment,,Occurence,
+ca,purple,562,45,8,13,"morat, morada, morades, varietat, ceba, roses, vermell, família, franja, verda","purple, purple, purples, variety, onion, roses, red, family, stripe, green",Ecology & environment,,Occurence,
+ca,purple,562,45,8,14,"morat, luitz, morats, banda, col, marró, maudits, gentlemen, cinq, bogotà","purple, luitz, purples, band, cabbage, brown, damned, gentlemen, five, Bogotà",Unknown,,unknown,
+ca,purple,562,45,8,15,"morat, color, porpra, morada, beguda, tint, diversos, chicha, morats, característic","purple, colour, purple, purple, drink, dye, various, chicha, purples, characteristic",Life experiences,,Occurence,
+ca,gray,1500,141,9.4,1,"gris, espècies, poll, àguila, negre, calau, blanca, picot, coll, petita","grey, species, chick, eagle, black, hornbill, white, woodpecker, neck, small",physical description,,Occurence,
+ca,gray,1500,141,9.4,2,"gris, juan, any, picasso, pintura, pablo, jean, obres, le, premi","grey, juan, year, picasso, painting, pablo, jean, works, le, prize",Arts & entertainment,,Occurence,
+ca,gray,1500,141,9.4,3,"gris, color, blau, blanc, negre, colors, groc, tipus, marró, vermell","grey, colour, blue, white, black, colours, yellow, type, brown, red",Colour co-occurrence,,Occurence,
+ca,gray,1500,141,9.4,4,"gris, anys, sovint, ara, millor, dorsal, nivell, lloc, mamífers, fosc","grey, years, often, now, best, dorsal, level, place, mammals, dark",physical description,,Occurence,
+ca,gray,1500,141,9.4,5,"grisa, ceràmica, zona, substància, negra, grises, caparreta, sòl, aspecte, fina","grey, ceramic, area, substance, black, greys, little roof, floor, appearance, fine",physical description,,Occurence,
+ca,gray,1500,141,9.4,6,"pedra, gris, sud, grisa, nord, llum, dues, est, granit, grises","stone, grey, south, grey, north, light, two, east, granite, greys",physical description,,Occurence,
+ca,gray,1500,141,9.4,7,"gris, grisos, escala, color, ambre, blanc, temps, homes, imatge, marbre","grey, greys, scale, colour, amber, white, time, men, image, marble",Arts & entertainment,,Occurence,
+ca,gray,1500,141,9.4,8,"gris, blanc, negre, color, fons, resta, vida, veure, anomenat, nivells","grey, white, black, colour, background, rest, life, see, called, levels",Colour co-occurrence,,Occurence,
+ca,gray,1500,141,9.4,9,"gris, pàl, color, lid, marró, colors, negre, fosc, blanc, dos","grey, pale, colour, lip, brown, colours, black, dark, white, two",Colour co-occurrence,,Occurence,
+ca,gray,1500,141,9.4,10,"color, gris, clar, fosc, blanc, marró, negre, línies, banda, espines","colour, grey, light, dark, white, brown, black, lines, band, spines",physical description,,Occurence,
+ca,gray,1500,141,9.4,11,"grisos, grises, colors, blancs, marrons, negres, balenes, trobar, gamma, zones","greys, greys, colours, whites, browns, blacks, whales, find, gamma, zones",Colour co-occurrence,,Occurence,
+ca,gray,1500,141,9.4,12,"gris, part, color, inferior, superior, ales, grises, tenen, negres, cavall","grey, part, colour, lower, upper, wings, greys, have, blacks, horse",physical description,,Occurence,
+ca,gray,1500,141,9.4,13,"gris, família, ocell, espècie, mussol, the, façana, fou, lícula, llop","grey, family, bird, species, owl, the, façade, was, film, wolf",physical description,,Occurence,
+ca,gray,1500,141,9.4,14,"gris, color, verd, mm, cm, fulles, forma, marró, verdós, base","grey, colour, green, mm, cm, leaves, form, brown, greenish, base",Colour co-occurrence,,Occurence,
+ca,gray,1500,141,9.4,15,"gris, color, té, fosc, pelatge, marró, cap, negre, blanc, ventre","grey, colour, has, dark, fur, brown, cap, black, white, belly",physical description,,Occurence,
