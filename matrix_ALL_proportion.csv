@@ -1,0 +1,177 @@
+concept,colour,en,fr,es,ca
+identity,black,0.467,0.067,0.267,0.2
+identity,white,0.267,0.133,0.133,0.067
+identity,red,0.0,0.0,0.0,0.067
+identity,green,0.0,0.0,0.067,0.0
+identity,yellow,0.0,0.0,0.0,0.067
+identity,blue,0.0,0.0,0.0,0.067
+identity,brown,0.067,0.067,0.0,0.0
+identity,orange,0.0,0.0,0.0,0.0
+identity,pink,0.0,0.0,0.0,0.067
+identity,purple,0.0,0.0,0.0,0.0
+identity,gray,0.0,0.0,0.0,0.0
+social movement,black,0.133,0.0,0.0,0.0
+social movement,white,0.133,0.0,0.0,0.0
+social movement,red,0.0,0.0,0.0,0.0
+social movement,green,0.0,0.0,0.0,0.0
+social movement,yellow,0.067,0.067,0.0,0.0
+social movement,blue,0.0,0.0,0.0,0.0
+social movement,brown,0.067,0.0,0.0,0.0
+social movement,orange,0.0,0.0,0.0,0.0
+social movement,pink,0.0,0.0,0.0,0.0
+social movement,purple,0.0,0.0,0.0,0.0
+social movement,gray,0.0,0.0,0.0,0.0
+ecology,black,0.0,0.333,0.0,0.067
+ecology,white,0.067,0.067,0.0,0.067
+ecology,red,0.067,0.067,0.0,0.0
+ecology,green,0.267,0.267,0.4,0.333
+ecology,yellow,0.133,0.0,0.133,0.2
+ecology,blue,0.067,0.0,0.067,0.0
+ecology,brown,0.0,0.2,0.133,0.133
+ecology,orange,0.2,0.067,0.0,0.133
+ecology,pink,0.267,0.267,0.067,0.067
+ecology,purple,0.067,0.067,0.067,0.267
+ecology,gray,0.0,0.267,0.0,0.0
+belief and ritual,black,0.0,0.0,0.067,0.0
+belief and ritual,white,0.0,0.067,0.0,0.0
+belief and ritual,red,0.0,0.0,0.0,0.0
+belief and ritual,green,0.0,0.0,0.0,0.0
+belief and ritual,yellow,0.067,0.0,0.0,0.0
+belief and ritual,blue,0.0,0.0,0.0,0.0
+belief and ritual,brown,0.0,0.0,0.0,0.0
+belief and ritual,orange,0.0,0.0,0.0,0.0
+belief and ritual,pink,0.0,0.0,0.0,0.067
+belief and ritual,purple,0.0,0.0,0.333,0.067
+belief and ritual,gray,0.0,0.0,0.0,0.0
+warnings,black,0.0,0.0,0.0,0.0
+warnings,white,0.0,0.0,0.0,0.0
+warnings,red,0.0,0.0,0.0,0.0
+warnings,green,0.0,0.0,0.0,0.0
+warnings,yellow,0.067,0.0,0.2,0.133
+warnings,blue,0.0,0.0,0.0,0.0
+warnings,brown,0.0,0.0,0.0,0.0
+warnings,orange,0.0,0.067,0.0,0.0
+warnings,pink,0.0,0.0,0.0,0.0
+warnings,purple,0.0,0.0,0.0,0.0
+warnings,gray,0.0,0.0,0.0,0.0
+conflict,black,0.0,0.0,0.0,0.067
+conflict,white,0.0,0.0,0.0,0.067
+conflict,red,0.133,0.2,0.2,0.133
+conflict,green,0.0,0.0,0.0,0.0
+conflict,yellow,0.067,0.0,0.0,0.0
+conflict,blue,0.0,0.067,0.067,0.2
+conflict,brown,0.0,0.0,0.0,0.0
+conflict,orange,0.0,0.0,0.067,0.067
+conflict,pink,0.0,0.0,0.0,0.067
+conflict,purple,0.0,0.0,0.0,0.0
+conflict,gray,0.0,0.0,0.0,0.0
+politics,black,0.0,0.0,0.0,0.133
+politics,white,0.267,0.0,0.067,0.0
+politics,red,0.0,0.0,0.0,0.0
+politics,green,0.067,0.133,0.067,0.133
+politics,yellow,0.0,0.0,0.0,0.0
+politics,blue,0.067,0.0,0.0,0.133
+politics,brown,0.0,0.0,0.0,0.0
+politics,orange,0.0,0.0,0.067,0.067
+politics,pink,0.0,0.0,0.067,0.0
+politics,purple,0.0,0.0,0.0,0.067
+politics,gray,0.0,0.0,0.0,0.0
+power structures,black,0.0,0.0,0.0,0.0
+power structures,white,0.0,0.0,0.0,0.067
+power structures,red,0.0,0.0,0.0,0.0
+power structures,green,0.133,0.0,0.0,0.0
+power structures,yellow,0.0,0.0,0.0,0.0
+power structures,blue,0.0,0.0,0.0,0.0
+power structures,brown,0.0,0.067,0.0,0.0
+power structures,orange,0.0,0.067,0.0,0.0
+power structures,pink,0.0,0.133,0.0,0.0
+power structures,purple,0.0,0.0,0.0,0.067
+power structures,gray,0.067,0.0,0.0,0.0
+death,black,0.0,0.0,0.067,0.0
+death,white,0.0,0.0,0.0,0.0
+death,red,0.0,0.0,0.0,0.0
+death,green,0.0,0.0,0.0,0.0
+death,yellow,0.0,0.0,0.0,0.0
+death,blue,0.0,0.0,0.0,0.0
+death,brown,0.0,0.0,0.0,0.067
+death,orange,0.0,0.0,0.0,0.0
+death,pink,0.0,0.0,0.0,0.0
+death,purple,0.0,0.0,0.067,0.0
+death,gray,0.0,0.0,0.0,0.0
+food,black,0.0,0.0,0.0,0.133
+food,white,0.0,0.0,0.133,0.133
+food,red,0.0,0.0,0.0,0.0
+food,green,0.0,0.0,0.067,0.0
+food,yellow,0.0,0.0,0.0,0.0
+food,blue,0.0,0.0,0.0,0.0
+food,brown,0.0,0.0,0.0,0.0
+food,orange,0.133,0.2,0.4,0.133
+food,pink,0.0,0.0,0.0,0.0
+food,purple,0.0,0.0,0.0,0.0
+food,gray,0.0,0.0,0.0,0.0
+life experiences,black,0.0,0.067,0.0,0.0
+life experiences,white,0.0,0.0,0.067,0.0
+life experiences,red,0.0,0.0,0.0,0.0
+life experiences,green,0.0,0.067,0.0,0.0
+life experiences,yellow,0.0,0.0,0.0,0.0
+life experiences,blue,0.0,0.067,0.0,0.0
+life experiences,brown,0.0,0.067,0.0,0.067
+life experiences,orange,0.067,0.0,0.0,0.0
+life experiences,pink,0.067,0.067,0.0,0.067
+life experiences,purple,0.0,0.0,0.067,0.067
+life experiences,gray,0.067,0.0,0.133,0.0
+arts,black,0.4,0.2,0.133,0.267
+arts,white,0.2,0.533,0.067,0.067
+arts,red,0.0,0.267,0.0,0.333
+arts,green,0.067,0.0,0.0,0.133
+arts,yellow,0.333,0.067,0.067,0.133
+arts,blue,0.333,0.333,0.067,0.133
+arts,brown,0.133,0.0,0.0,0.067
+arts,orange,0.133,0.133,0.067,0.067
+arts,pink,0.067,0.133,0.0,0.067
+arts,purple,0.133,0.267,0.0,0.0
+arts,gray,0.2,0.133,0.2,0.133
+space,black,0.067,0.0,0.067,0.067
+space,white,0.0,0.0,0.067,0.0
+space,red,0.0,0.0,0.2,0.2
+space,green,0.0,0.0,0.0,0.0
+space,yellow,0.0,0.067,0.067,0.133
+space,blue,0.0,0.0,0.2,0.133
+space,brown,0.0,0.0,0.133,0.067
+space,orange,0.0,0.0,0.133,0.2
+space,pink,0.0,0.0,0.0,0.0
+space,purple,0.0,0.067,0.0,0.0
+space,gray,0.0,0.0,0.0,0.0
+named entity,black,0.133,0.2,0.333,0.133
+named entity,white,0.067,0.0,0.133,0.133
+named entity,red,0.6,0.2,0.333,0.133
+named entity,green,0.4,0.2,0.133,0.2
+named entity,yellow,0.133,0.4,0.067,0.067
+named entity,blue,0.467,0.067,0.2,0.067
+named entity,brown,0.667,0.267,0.0,0.0
+named entity,orange,0.333,0.4,0.133,0.067
+named entity,pink,0.267,0.133,0.667,0.4
+named entity,purple,0.4,0.267,0.067,0.067
+named entity,gray,0.333,0.0,0.067,0.0
+colour co-occurrence,black,0.0,0.133,0.067,0.2
+colour co-occurrence,white,0.067,0.267,0.133,0.2
+colour co-occurrence,red,0.133,0.2,0.267,0.4
+colour co-occurrence,green,0.067,0.133,0.2,0.2
+colour co-occurrence,yellow,0.133,0.133,0.533,0.267
+colour co-occurrence,blue,0.133,0.267,0.333,0.267
+colour co-occurrence,brown,0.067,0.2,0.467,0.4
+colour co-occurrence,orange,0.067,0.067,0.2,0.2
+colour co-occurrence,pink,0.133,0.067,0.067,0.0
+colour co-occurrence,purple,0.133,0.2,0.267,0.133
+colour co-occurrence,gray,0.2,0.533,0.267,0.333
+physical description,black,0.0,0.067,0.0,0.0
+physical description,white,0.067,0.067,0.0,0.133
+physical description,red,0.0,0.067,0.0,0.0
+physical description,green,0.133,0.067,0.0,0.0
+physical description,yellow,0.133,0.067,0.0,0.0
+physical description,blue,0.0,0.2,0.067,0.0
+physical description,brown,0.067,0.133,0.2,0.267
+physical description,orange,0.0,0.067,0.0,0.067
+physical description,pink,0.467,0.067,0.0,0.0
+physical description,purple,0.333,0.0,0.133,0.0
+physical description,gray,0.067,0.133,0.333,0.533
